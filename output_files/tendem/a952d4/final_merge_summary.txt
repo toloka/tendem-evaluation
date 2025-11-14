@@ -1,0 +1,8 @@
+Countries in merged: 15
+Date coverage: 2022-01-01 to 2024-12-31
+Total rows: 16440
+Duplicate Country-Date rows: 0
+NaNs New Cases: 9172
+NaNs New Deaths: 9386
+NaNs Total Vaccinations: 10068
+NaNs Stringency Index: 10965

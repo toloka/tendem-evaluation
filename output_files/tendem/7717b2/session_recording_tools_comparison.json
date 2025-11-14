@@ -1,0 +1,261 @@
+[
+  {
+    "tool": "FullStory",
+    "scores": {
+      "session_recording": 5,
+      "integrations": 5,
+      "analytics": 5,
+      "price": 2,
+      "security": 5,
+      "usability": 4,
+      "support": 4
+    },
+    "weighted_total": 4.55,
+    "rationales": {
+      "session_recording": "Enterprise-grade replay with autocapture and high fidelity across web/mobile.",
+      "integrations": "Broad ecosystem (Jira, Intercom, Segment, BigQuery, Slack, Optimizely, etc.).",
+      "analytics": "Segments, funnels, robust filtering, OmniSearch; strong product analytics.",
+      "price": "Quote-based beyond free/test drive; typically premium enterprise pricing.",
+      "security": "EU/US data residency; privacy-by-default and masking/unmasking controls.",
+      "usability": "Powerful search and saved segments; suited for PM/design/analytics teams.",
+      "support": "Mature help center and enterprise support."
+    },
+    "citations": {
+      "session_recording": [
+        "https://www.fullstory.com/plans/"
+      ],
+      "integrations": [
+        "https://www.fullstory.com/platform/integrations/",
+        "https://directory.fullstory.com/integrations",
+        "https://help.fullstory.com/hc/en-us/sections/360003790653-Supported-Integrations"
+      ],
+      "analytics": [
+        "https://help.fullstory.com/hc/en-us/sections/360004602554-Search",
+        "https://help.fullstory.com/hc/en-us/articles/360020622754-Can-I-save-searches-that-I-use-frequently-as-a-Segment",
+        "https://help.fullstory.com/hc/en-us/articles/360020828613-How-to-Search-Custom-User-Data"
+      ],
+      "price": [
+        "https://www.fullstory.com/plans/"
+      ],
+      "security": [
+        "https://help.fullstory.com/hc/en-us/articles/8901113940375-Fullstory-Data-Residency",
+        "https://help.fullstory.com/hc/en-us/articles/360044349073-Fullstory-Private-by-Default",
+        "https://help.fullstory.com/hc/en-us/articles/360020623574-How-do-I-protect-my-users-privacy-in-Fullstory"
+      ],
+      "usability": [
+        "https://help.fullstory.com/hc/en-us/sections/360004602554-Search",
+        "https://help.fullstory.com/hc/en-us/articles/360020622754-Can-I-save-searches-that-I-use-frequently-as-a-Segment"
+      ],
+      "support": [
+        "https://help.fullstory.com/hc/en-us",
+        "https://www.fullstory.com/contact/"
+      ]
+    }
+  },
+  {
+    "tool": "LogRocket",
+    "scores": {
+      "session_recording": 5,
+      "integrations": 5,
+      "analytics": 4,
+      "price": 3,
+      "security": 4,
+      "usability": 4,
+      "support": 4
+    },
+    "weighted_total": 4.5,
+    "rationales": {
+      "session_recording": "Pixel-perfect DOM replay with console logs, errors, network and performance context.",
+      "integrations": "40+ integrations plus streaming export to data warehouses.",
+      "analytics": "Funnels and analysis available but developer-centric orientation.",
+      "price": "Transparent tiers; mid-range relative to enterprise peers.",
+      "security": "US processing + DPF; offers self-hosted/private cloud for stricter residency.",
+      "usability": "Cross-functional usability improved by developer context in player.",
+      "support": "Active docs and support channels."
+    },
+    "citations": {
+      "session_recording": [
+        "https://docs.logrocket.com/docs/session-replay",
+        "https://docs.logrocket.com/docs/performance-monitoring"
+      ],
+      "integrations": [
+        "https://logrocket.com/products/integrations",
+        "https://docs.logrocket.com/docs/streaming-data-export"
+      ],
+      "analytics": [
+        "https://docs.logrocket.com/docs/session-replay"
+      ],
+      "price": [
+        "https://logrocket.com/pricing"
+      ],
+      "security": [
+        "https://logrocket.com/privacy",
+        "https://logrocket.com/products/saas-self-hosted",
+        "https://docs.logrocket.com/docs/privacy"
+      ],
+      "usability": [
+        "https://docs.logrocket.com/docs/session-replay"
+      ],
+      "support": [
+        "https://docs.logrocket.com/",
+        "https://logrocket.com/contact/"
+      ]
+    }
+  },
+  {
+    "tool": "Smartlook",
+    "scores": {
+      "session_recording": 4,
+      "integrations": 4,
+      "analytics": 4,
+      "price": 4,
+      "security": 5,
+      "usability": 4,
+      "support": 4
+    },
+    "weighted_total": 4.0,
+    "rationales": {
+      "session_recording": "Web/mobile recordings with dedicated mobile Crash Reports linked to sessions.",
+      "integrations": "Solid catalog incl. mobile/webhooks; not as extensive as top enterprise peers.",
+      "analytics": "Events, funnels, and filtering cover core needs for product teams.",
+      "price": "Accessible pricing with free trial and tiers.",
+      "security": "EU-only data storage; masking rules and Privacy API.",
+      "usability": "Straightforward UI for filtering and funnel workflows.",
+      "support": "Docs and contact options available."
+    },
+    "citations": {
+      "session_recording": [
+        "https://www.smartlook.com/crash-reports/",
+        "https://mobile.developer.smartlook.com/reference/android-sdk-installation",
+        "https://mobile.developer.smartlook.com/changelog/apple-sdk-release-2213"
+      ],
+      "integrations": [
+        "https://integrations.smartlook.com/docs/integrating-smartlook",
+        "https://integrations.smartlook.com/docs/standard-integrations"
+      ],
+      "analytics": [
+        "https://www.smartlook.com/events/",
+        "https://www.smartlook.com/funnels/",
+        "https://help.smartlook.com/docs/sessions-1"
+      ],
+      "price": [
+        "https://www.smartlook.com/pricing/"
+      ],
+      "security": [
+        "https://www.smartlook.com/blog/gdpr-basic-info/",
+        "https://help.smartlook.com/docs/creating-masking-rules",
+        "https://web.developer.smartlook.com/docs/privacy-api"
+      ],
+      "usability": [
+        "https://help.smartlook.com/docs/sessions-1",
+        "https://www.smartlook.com/funnels/"
+      ],
+      "support": [
+        "https://help.smartlook.com/",
+        "https://www.smartlook.com/contact/"
+      ]
+    }
+  },
+  {
+    "tool": "Hotjar",
+    "scores": {
+      "session_recording": 3,
+      "integrations": 4,
+      "analytics": 3,
+      "price": 3,
+      "security": 4,
+      "usability": 5,
+      "support": 4
+    },
+    "weighted_total": 3.25,
+    "rationales": {
+      "session_recording": "Reliable web session recordings and heatmaps; less developer context.",
+      "integrations": "Good range including Slack, GA, Jira, HubSpot, Zapier.",
+      "analytics": "Filtering and qualitative insights; limited advanced product analytics.",
+      "price": "Mid-tier pricing; observe suite plans.",
+      "security": "EU (Ireland) data storage on AWS; GDPR resources; masking options.",
+      "usability": "Very easy to use for designers/PMs; minimal training needed.",
+      "support": "Comprehensive help center and contact."
+    },
+    "citations": {
+      "session_recording": [
+        "https://help.hotjar.com/hc/en-us/articles/115011647627-Recordings-Player-Guide"
+      ],
+      "integrations": [
+        "https://www.hotjar.com/integrations/",
+        "https://help.hotjar.com/hc/en-us/sections/35766934217489-Integrations"
+      ],
+      "analytics": [
+        "https://help.hotjar.com/hc/en-us/articles/36820019361041-Use-Cases-for-Filtering-Recordings",
+        "https://help.hotjar.com/hc/en-us/articles/16420425909143-How-to-Use-the-Entered-Text-Filter"
+      ],
+      "price": [
+        "https://www.hotjar.com/pricing/"
+      ],
+      "security": [
+        "https://help.hotjar.com/hc/en-us/articles/36819972898193-Data-Safety-Privacy-Security",
+        "https://help.hotjar.com/hc/en-us/articles/115015563287-How-to-Show-Elements-and-Keystrokes-in-Data-Collection"
+      ],
+      "usability": [
+        "https://help.hotjar.com/hc/en-us/articles/115011647627-Recordings-Player-Guide"
+      ],
+      "support": [
+        "https://help.hotjar.com/hc/en-us",
+        "https://www.hotjar.com/contact/"
+      ]
+    }
+  },
+  {
+    "tool": "Microsoft Clarity",
+    "scores": {
+      "session_recording": 3,
+      "integrations": 3,
+      "analytics": 3,
+      "price": 5,
+      "security": 4,
+      "usability": 4,
+      "support": 3
+    },
+    "weighted_total": 3.3,
+    "rationales": {
+      "session_recording": "Free session recordings/heatmaps; limited developer diagnostics.",
+      "integrations": "GA and several third-party integrations; more limited than paid peers.",
+      "analytics": "Useful filters/segments and funnels; adequate for many use cases.",
+      "price": "Free forever with no traffic limits.",
+      "security": "Azure-hosted with EU Data Boundary; masking modes and client API.",
+      "usability": "Simple UI for non-technical users.",
+      "support": "Community/docs-driven support; fewer enterprise support features."
+    },
+    "citations": {
+      "session_recording": [
+        "https://clarity.microsoft.com/pricing",
+        "https://learn.microsoft.com/en-us/clarity/faq"
+      ],
+      "integrations": [
+        "https://clarity.microsoft.com/integrations",
+        "https://learn.microsoft.com/en-us/clarity/ga-integration/",
+        "https://learn.microsoft.com/en-us/clarity/third-party-integrations/"
+      ],
+      "analytics": [
+        "https://learn.microsoft.com/en-us/clarity/filters/",
+        "https://learn.microsoft.com/en-us/clarity/funnels"
+      ],
+      "price": [
+        "https://clarity.microsoft.com/pricing",
+        "https://learn.microsoft.com/en-us/clarity/faq"
+      ],
+      "security": [
+        "https://learn.microsoft.com/en-us/privacy/eudb/eu-data-boundary-learn",
+        "https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-masking",
+        "https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-api"
+      ],
+      "usability": [
+        "https://learn.microsoft.com/en-us/clarity/filters/"
+      ],
+      "support": [
+        "https://learn.microsoft.com/en-us/clarity/",
+        "https://learn.microsoft.com/en-us/clarity/faq"
+      ]
+    }
+  }
+]

@@ -1,0 +1,262 @@
+No,Company,Country,Address,Phone,Comment
+1,Walmart Inc.,USA,"702 SW 8th St, Bentonville, AR 72716",+1 479-273-4000,Data verified.
+2,"Amazon.com, Inc.",USA,"410 Terry Ave N, Seattle, WA 98109",+1 206-266-1000,Data verified.
+3,Apple Inc.,USA,"1 Apple Park Way, Cupertino, CA 95014",+1 408-996-1010,Data verified.
+4,Exxon Mobil Corporation,USA,"5959 Las Colinas Blvd, Irving, TX 75039",+1 972-444-1000,Address and phone could not be fully verified – ExxonMobil has relocated HQ to Spring
+5,Berkshire Hathaway Inc.,USA,"3555 Farnam St, Omaha, NE 68131",+1 402-346-1400,Data verified.
+6,Volkswagen AG,Germany,"Berliner Ring 2, 38440 Wolfsburg",+49 5361-9-30,Address verified; phone could not be verified – official main line listed as +49 5361 9-0.
+7,Nestlé S.A.,Switzerland,"Avenue Nestlé 55, 1800 Vevey",+41 21 924 2111,Data verified.
+8,BP p.l.c.,UK,"1 St James’s Square, London SW1Y 4PD",+44 20 7496 4000,Data verified.
+9,TotalEnergies SE,France,"2 Pl. Jean Millier, 92078 Paris La Défense",+33 1 47 44 45 46,Data verified.
+10,Siemens AG,Germany,"Werner-von-Siemens-Str. 1, 80333 München",+49 89 636-00,Data verified.
+11,McDonald's Corporation,USA,"110 N Carpenter St, Chicago, IL 60607",+1 630-623-3000,Address verified; phone could not be verified – corporate HQ phone not published; 630-623-3000 is legacy Oak Brook.
+12,Costco Wholesale Corporation,USA,"999 Lake Dr, Issaquah, WA 98027",+1 425-313-8100,Data verified.
+13,Royal Dutch Shell plc,Netherlands/UK,"Carel van Bylandtlaan 30, 2596 HR Den Haag",+31 70 377 9111,Address and phone could not be fully verified – company re-domiciled as Shell plc with HQ in London.
+14,HSBC Holdings plc,UK,"8 Canada Square, London E14 5HQ",+44 20 7991 8888,Data verified.
+15,Allianz SE,Germany,"Königinstraße 28, 80802 München",+49 89 3800-0,Data verified.
+16,Roche Holding AG,Switzerland,"Grenzacherstrasse 124, 4070 Basel",+41 61 688 1111,Data verified.
+17,Unilever PLC,UK,"Port Sunlight, Wirral, CH62 4ZD",+44 151 644 2000,Address and phone could not be verified – current PLC HQ is London; Port Sunlight is a site/factory.
+18,Intel Corporation,USA,"2200 Mission College Blvd, Santa Clara, CA 95054",+1 408-765-8080,Data verified.
+19,Procter & Gamble Co.,USA,"One Procter & Gamble Plaza, Cincinnati, OH 45202",+1 513-983-1100,Data verified.
+20,The Coca-Cola Company,USA,"One Coca-Cola Plaza, Atlanta, GA 30313",+1 404-676-2121,Data verified.
+21,"PepsiCo, Inc.",USA,"700 Anderson Hill Rd, Purchase, NY 10577",+1 914-253-2000,Data verified.
+22,L'Oréal S.A.,France,"14 Rue Royale, 75008 Paris",+33 1 47 56 70 00,Data verified.
+23,BMW AG,Germany,"Petuelring 130, 80788 München",+49 89 382-0,Data verified.
+24,Nestlé Purina PetCare Company,USA,"1 Checkerboard Square, St. Louis, MO 63164",+1 314-982-1444,Data verified.
+25,IKEA Ltd.,UK,"1 Phipp Street, London EC2A 4PS",+44 345 640 3030,Address and phone could not be verified – IKEA UK registered office and official contact differ; phone is customer service.
+26,Sony Group Corporation,Japan,"1-7-1 Konan, Minato-ku, Tokyo 108-0075",+81 3-6748-2111,Data verified.
+27,Airbus SE,Netherlands,"Mendelweg 30, 2333 CS Leiden",+31 71 524 5000,Data verified.
+28,Danone S.A.,France,"17 Boulevard Haussmann, 75009 Paris",+33 1 44 35 20 20,Data verified.
+29,SAP SE,Germany,"Dietmar-Hopp-Allee 16, 69190 Walldorf",+49 6227 7-0,Data verified.
+30,GlaxoSmithKline plc,UK,"980 Great West Rd, Brentford, Middlesex TW8 9GS",+44 20 8047 5000,Data verified.
+31,Novartis AG,Switzerland,"Lichtstrasse 35, 4056 Basel",+41 61 324 1111,Data verified.
+32,Philips N.V.,Netherlands,"Amstelplein 2, 1096 BC Amsterdam",+31 20 597 7777,Data verified.
+33,Siemens Healthineers AG,Germany,"Henkestr. 127, 91052 Erlangen",+49 9131 84-0,Data verified.
+34,Schneider Electric SE,France,"35 Rue Joseph Monier, 92500 Rueil-Malmaison",+33 1 41 29 70 00,Data verified.
+35,Ericsson AB,Sweden,"Torshamnsgatan 21, 164 80 Stockholm",+46 10 719 0000,Data verified.
+36,ABB Ltd,Switzerland,"Affolternstrasse 44, 8050 Zürich",+41 43 317 7111,Data verified.
+37,Heineken N.V.,Netherlands,"Stadhouderskade 78, 1072 AE Amsterdam",+31 20 523 9222,Data verified.
+38,Zara (Inditex),Spain,"Edificio Inditex, 15142 Arteixo, A Coruña",+34 981 18 54 00,Data verified.
+39,Volvo Group,Sweden,"Gropegårdsgatan 2, 631 04 Eskilstuna",+46 16 66 10 00,Address could not be verified – Volvo Group HQ is Gothenburg; this appears to be a site address.
+40,AstraZeneca plc,UK,"1 Francis Crick Ave, Cambridge CB2 0AA",+44 1223 637000,Data verified.
+41,BPCE Group,France,"50 Avenue Pierre Mendès-France, 75201 Paris Cedex 13",+33 1 44 51 51 51,Data verified.
+42,UniCredit S.p.A.,Italy,"Via A. Specchi, 16, 00186 Rome",+39 06 47921,Data verified.
+43,RWE AG,Germany,"Opernplatz 1, 45128 Essen",+49 201 12-00,Data verified.
+44,ING Group,Netherlands,"Bijlmerplein 888, 1102 MG Amsterdam",+31 20 576 5735,Data verified.
+45,Banco Santander,Spain,"Paseo de Pereda, 9-12, 39004 Santander",+34 942 27 11 11,Address and phone could not be verified – corporate HQ registered office is in Boadilla del Monte (Madrid).
+46,Barclays plc,UK,"1 Churchill Pl, London E14 5HP",+44 20 7116 1000,Data verified.
+47,Deutsche Bank AG,Germany,"Taunusanlage 12, 60325 Frankfurt am Main",+49 69 910-00,Data verified.
+48,Credit Suisse Group AG,Switzerland,"Paradeplatz 8, 8001 Zürich",+41 44 333 11 11,Data verified.
+49,HSBC UK Bank plc,UK,"1 Centenary Square, Birmingham B1 1HQ",+44 345 740 4404,Address verified; phone could not be verified – listed number is customer service; HQ main line not published.
+50,Booking Holdings Inc.,USA,"800 Connecticut Ave, Norwalk, CT 06854",+1 203-299-8000,Data verified.
+51,GlobalData plc,UK,"John Carpenter House, John Carpenter Street, London EC4Y 0AN",+44 20 7936 6400,Data verified.
+52,Sky Deutschland GmbH,Germany,"Medienallee 26, 85774 Unterföhring",+49 89 995740,Address verified; phone could not be verified – HQ main line is +49 89 9958-02; provided number differs.
+53,Telefónica Deutschland Holding AG,Germany,"Georg-Brauchle-Ring 50, 80992 Munich",+49 89 24420,Data verified.
+54,UK Oil & Gas PLC,UK,"The Broadgate Tower, 20 Primrose Street, London EC2A 2EW",+44 1483 941493,Data verified.
+55,Bilfinger SE,Germany,"Oskar-Meixner-Strasse 1, 68163 Mannheim",+49 621 4592000,Data verified.
+56,Farfetch UK Ltd,UK,"211 Old Street, The Bower, 4th Floor, London EC1V 9NR",+44 20 7549 5400,Data verified.
+57,STO SE & Co. KGaA,Germany,"Ehrenbachstrasse 1, 79780 Stühlingen",,Address verified; phone could not be verified – phone not provided in sheet.
+58,Heineken UK Ltd, ,"3–4 Broadway Park, South Gyle Broadway, Edinburgh EH12 9JZ",+44 131 5281000,Phone verified; address could not be verified – HQ relocated to 6 St Andrew Square
+59,Diehl Stiftung & Co. KG,Germany,"Diehlplatz 1, 90402 Nuremberg",,"Unable to verify – address/phone; official site lists headquarters at Stephanstraße 49, phone not provided in sheet."
+60,Telefonica UK Ltd,UK,"Telefónica House, 260 Bath Road, Slough SL1 4DX",,Unable to verify – address/phone; registered office updated to 500 Brook Drive
+61,"PayPal Holdings, Inc.",USA,"2211 North First Street, San Jose, CA 95131",+1 408-967-1000,Address verified; phone could not be verified – HQ phone not published on official site.
+62,eBay Inc.,USA,"2025 Hamilton Avenue, San Jose, CA 95125",+1 408-376-7008,Address verified; phone could not be verified – HQ phone not published on official site.
+63,"Meta Platforms, Inc.",USA,"1 Hacker Way, Menlo Park, CA 94025",+1 650-543-4800,Address could not be verified – HQ located at 1 Meta Way
+64,"Twitter, Inc.",USA,"1355 Market Street, Suite 900, San Francisco, CA 94103",+1 415-222-9670,Data verified.
+65,"Netflix, Inc.",USA,"100 Winchester Circle, Los Gatos, CA 95032",+1 408-540-3700,Data verified.
+66,Adobe Inc.,USA,"345 Park Avenue, San Jose, CA 95110",+1 408-536-6000,Data verified.
+67,"Salesforce, Inc.",USA,"415 Mission Street, 3rd Floor, San Francisco, CA 94105",+1 800-667-6389,Address verified; phone could not be verified – provided number is toll-free; HQ main line commonly listed as (415) 901-7000.
+68,"Uber Technologies, Inc.",USA,"1515 3rd Street, San Francisco, CA 94158",+1 415-612-8582,Data verified.
+69,"Airbnb, Inc.",USA,"888 Brannan Street, San Francisco, CA 94103",+1 855-424-7262,Data verified.
+70,"Stripe, Inc.",USA,"354 Oyster Point Blvd, South San Francisco, CA 94080",+1 888-963-8955,Data verified.
+71,Spotify Technology S.A.,Sweden,"Regeringsgatan 19, 111 53 Stockholm",+46 8 510 666 00,Data verified.
+72,TikTok (ByteDance Ltd.),UK,"6th Floor, One London Wall, London EC2Y 5EB",+44 20 3984 7580,Address verified; phone could not be verified – UK HQ phone not published on official site; provided number appears office line.
+73,ARM Holdings plc,UK,"110 Fulbourn Road, Cambridge CB1 9NJ",+44 1223 400400,Data verified.
+74,Booking.com B.V.,Netherlands,"Herengracht 597, 1017 CE Amsterdam",+31 20 712 5600,Data verified.
+75,ASML Holding N.V.,Netherlands,"De Run 6501, 5504 DR Veldhoven",+31 40 268 3000,Data verified.
+76,Ryanair Holdings plc,Ireland,"Airside Business Park, Swords, Co. Dublin, K67 NY94",+353 1 945 1212,Address verified; phone could not be verified – official main line commonly listed as +353 1 812 1212.
+77,Accenture plc,Ireland,"1 Grand Canal Square, Grand Canal Harbour, Dublin 2",+353 1 646 2000,Data verified.
+78,Glencore International AG,Switzerland,"Baarermattstrasse 3, 6340 Baar",+41 41 709 2000,Data verified.
+79,Nestlé Waters,France,"Rue d'Alsace, 68340 Riquewihr",+33 3 89 47 90 00,Unable to verify – address/phone; corporate HQ is 12 Boulevard Garibaldi
+80,Renault S.A.,France,"13-15 Quai Alphonse Le Gallo, 92100 Boulogne-Billancourt",+33 1 76 84 04 04,Address verified; phone could not be verified – official HQ phone often listed as +33 1 76 86 43 43.
+81,Fiat Chrysler Automobiles N.V.,Italy,"Via Nizza 250, 10126 Turin",+39 011 00 63000,Address verified; phone could not be verified – FCA now Stellantis; Turin address is operational site; official contacts vary.
+82,Ferrari S.p.A.,Italy,"Via Abetone Inferiore n.4, 41053 Maranello",+39 0536 949111,Data verified.
+83,Pirelli & C. S.p.A.,Italy,"Viale Piero e Alberto Pirelli, 25, 20126 Milano",+39 02 64421,Data verified.
+84,Enel S.p.A.,Italy,"Viale Regina Margherita, 137, 00198 Rome",+39 06 8305 1,Address verified; phone could not be verified – main line formatted as +39 06 83051.
+85,Petrobras (Petróleo Brasileiro S.A.),Brazil,"Avenida República do Chile, 65, 20031-912 Rio de Janeiro - RJ",+55 21 3224 4477,Data verified.
+86,Vale S.A.,Brazil,"Praia de Botafogo, 186 - Botafogo, Rio de Janeiro - RJ, 22250-145",+55 21 3485 5000,Data verified.
+87,Tenaris S.A.,Luxembourg,"26 Boulevard Royal, 2449 Luxembourg",+352 26 47 89 78,Data verified.
+88,Daimler Truck AG,Germany,"Fasanenweg 10, 70771 Leinfelden-Echterdingen",+49 711 8485 0,Data verified.
+89,MAN Truck & Bus SE,Germany,"Dachauer Straße 667, 80995 München",+49 89 1580 0,Data verified.
+90,Continental AG,Germany,"Vahrenwalder Str. 9, 30165 Hannover",+49 511 938 01,Phone verified; address could not be verified – official HQ listed as Continental-Plaza 1
+91,Bosch GmbH,Germany,"Robert-Bosch-Platz 1, 70839 Gerlingen-Schillerhöhe",+49 711 400 40990,Address verified; phone could not be verified – official main line commonly listed as +49 711 811-0.
+92,Infineon Technologies AG,Germany,"Am Campeon 1-15, 85579 Neubiberg",+49 89 234 0,Address verified; phone could not be verified – official main line published as +49 89 234 65555.
+93,Lufthansa Group,Germany,"Venloer Straße 151-153, 50672 Cologne",+49 69 696 0,Data verified.
+94,Deutsche Post DHL Group,Germany,"Charles-de-Gaulle-Str. 20, 53113 Bonn",+49 228 182 0,Data verified.
+95,TUI Group,Germany,"Karl-Wiechert-Allee 4, 30625 Hannover",+49 511 566 00,Phone verified; address could not be verified – official HQ address is Karl-Wiechert-Allee 23.
+96,BASF SE,Germany,"Carl-Bosch-Str. 38, 67056 Ludwigshafen",+49 621 60 0,Data verified.
+97,Evonik Industries AG,Germany,"Rellinghauser Str. 1-11, 45128 Essen",+49 201 177 01,Data verified.
+98,Henkel AG & Co. KGaA,Germany,"Henkelstraße 67, 40589 Düsseldorf",+49 211 797 0,Data verified.
+99,Merck KGaA,Germany,"Frankfurter Str. 250, 64293 Darmstadt",+49 6151 720,Address verified; phone could not be verified – official main line is +49 6151 72-0.
+100,Beiersdorf AG,Germany,"Unnastraße 48, 20253 Hamburg",+49 40 4909 0,Data verified.
+101,Nokia Corporation,Finland,"Karakaari 7, 02610 Espoo",+358 10 4488000,Data verified.
+102,KONE Corporation,Finland,"Keilasatama 3, 02150 Espoo",+358 20 475 4313,Address verified; phone could not be verified – official main line listed as +358 204 75 1.
+103,Neste Corporation,Finland,"Keilaranta 21, 02150 Espoo",+358 10 45811,Data verified.
+104,Wärtsilä Corporation,Finland,"Hiililaiturinkuja 2, 00180 Helsinki",+358 10 709 0000,Data verified.
+105,Fortum Oyj,Finland,"Keilaniementie 1, 02150 Espoo",+358 10 4511,Phone verified; address could not be verified – official HQ address is Keilalahdentie 2–4.
+106,Telia Company AB,Sweden,"Stjärntorget 1, 169 94 Solna",+46 8 504 550 00,Address verified; phone could not be verified – official main line is +46 771 99 01 00.
+107,Electrolux AB,Sweden,"S:t Göransgatan 143, 105 45 Stockholm",+46 8 738 60 00,Data verified.
+108,Skanska AB,Sweden,"Warfvinges väg 25, 112 74 Stockholm",+46 10 448 00 00,Data verified.
+109,Atlas Copco AB,Sweden,"Sickla Industriväg 19, 131 54 Nacka",+46 8 743 80 00,Data verified.
+110,Husqvarna AB,Sweden,"Regeringsgatan 28, 111 53 Stockholm",+46 36 14 65 00,Address verified; phone could not be verified – official HQ phone commonly listed as +46 8 738 90 00.
+111,Vestas Wind Systems A/S,Denmark,"Hedeager 42, 8200 Aarhus N",+45 97 30 00 00,Data verified.
+112,Novo Nordisk A/S,Denmark,"Novo Allé 1, 2880 Bagsværd",+45 44 44 88 88,Data verified.
+113,Carlsberg Group,Denmark,"J.C. Jacobsens Gade 1, 1799 Copenhagen",+45 33 27 33 00,Data verified.
+114,A.P. Moller - Maersk A/S,Denmark,"Esplanaden 50, 1263 Copenhagen K",+45 33 63 33 63,Data verified.
+115,ISS A/S,Denmark,"Buddingevej 197, 2860 Søborg",+45 38 17 00 00,Data verified.
+116,Ahold Delhaize,Netherlands,"Provincialeweg 11, 1506 MA Zaandam",+31 88 659 9111,Data verified.
+117,AkzoNobel N.V.,Netherlands,"Christian Neefestraat 2, 1077 WW Amsterdam",+31 88 969 7809,Data verified.
+118,Randstad N.V.,Netherlands,"Diemermere 25, 1112 TC Diemen",+31 20 569 5911,Data verified.
+119,NN Group N.V.,Netherlands,"Schenkkade 65, 2595 AS The Hague",+31 70 513 0300,Address verified; phone could not be verified – their number is +31 70 513 0303
+120,TomTom N.V.,Netherlands,"De Ruijterkade 154, 1011 AC Amsterdam",+31 20 757 5000,Data verified.
+121,Swiss Re Ltd,Switzerland,"Mythenquai 50/60, 8022 Zürich",+41 43 285 2121,Data verified.
+122,Zurich Insurance Group,Switzerland,"Mythenquai 2, 8002 Zürich",+41 44 625 25 25,Data verified.
+123,Adecco Group,Switzerland,"Bellerivestrasse 30, 8008 Zürich",+41 44 878 88 88,Data verified.
+124,Clariant AG,Switzerland,"Rothausstrasse 61, 4132 Muttenz",+41 61 469 5111,Data verified.
+125,Geberit AG,Switzerland,"Schachenstrasse 77, 8645 Jona",+41 55 221 61 11,Data verified.
+126,Alstom SA,France,"48 Rue Albert Dhalenne, 93482 Saint-Ouen",+33 1 57 06 90 00,Address verified; phone could not be verified – HQ address often listed as 93400 Saint-Ouen-sur-Seine; cedex formatting varies.
+127,Thales Group,France,"Tour Carpe Diem, 31 Place des Corolles, 92098 Paris La Défense Cedex",+33 1 57 77 80 00,Data verified.
+128,Capgemini SE,France,"11 Rue de Tilsitt, 75017 Paris",+33 1 47 54 50 00,Data verified.
+129,Veolia Environnement,France,"21 Rue La Boétie, 75008 Paris",+33 1 85 57 70 00,Data verified.
+130,Sodexo SA,France,"255 Quai de la Bataille de Stalingrad, 92130 Issy-les-Moulineaux",+33 1 57 75 00 00,Address verified; phone could not be verified – alternate numbers exist; using main switchboard per official listings.
+131,Eni S.p.A.,Italy,"Piazzale Enrico Mattei 1, 00144 Rome",+39 06 59821,Data verified.
+132,Luxottica Group S.p.A.,Italy,"Via Cantù, 2, 20123 Milan",+39 02 8633 1,Address verified; phone could not be verified – number appears truncated in sheet; official listings vary.
+133,Leonardo S.p.A.,Italy,"Piazza Monte Grappa, 4, 00195 Rome",+39 06 324731,Data verified.
+134,Telecom Italia S.p.A. (TIM),Italy,"Via Gaetano Negri 1, 20123 Milan",+39 06 36881,Address could not be fully verified – TIM’s registered HQ is Rome; Milan address is an office; phone accepted as listed.
+135,Italgas S.p.A.,Italy,"Largo Regio Parco, 9, 10152 Turin",+39 011 234 2111,Data verified.
+136,Acerinox S.A.,Spain,"Santiago de Compostela, 100, 28035 Madrid",+34 91 398 5100,Data verified.
+137,Ferrovial S.A.,Spain,"Calle Príncipe de Vergara, 135, 28002 Madrid",+34 91 586 2500,Data verified.
+138,Mapfre S.A.,Spain,"Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid",+34 91 581 23 18,Data verified.
+139,Iberdrola S.A.,Spain,"Plaza Euskadi, 5, 48009 Bilbao",+34 94 403 40 00,Data verified.
+140,BBVA,Spain,"Calle Azul, 4, 28050 Madrid",+34 91 537 70 00,Data verified.
+141,Ericsson Nikola Tesla d.d.,Croatia,"Krapinska ul. 45, 10000 Zagreb",+385 1 365 8000,Data verified.
+142,INA – Industrija nafte d.d.,Croatia,"Avenija Većeslava Holjevca 10, 10020 Zagreb",+385 1 645 0000,Data verified.
+143,Atlantic Grupa d.d.,Croatia,"Miramarska 23, 10000 Zagreb",+385 1 2413 900,Data verified.
+144,Adris grupa d.d.,Croatia,"Obala Vladimira Nazora 6, 52210 Rovinj",+385 52 636 111,Data verified.
+145,Končar – Elektroindustrija d.d.,Croatia,"Fallerovo šetalište 22, 10000 Zagreb",+385 1 3655 555,Data verified.
+146,OTP Bank Nyrt.,Hungary,"Nádor utca 16, 1051 Budapest",+36 1 354 7100,Address verified; phone could not be verified – official HQ numbers commonly listed as +36 1 473 5000 or +36 1 366 6666; provided number not found in authoritative sources.
+147,MOL Group,Hungary,"Október huszonharmadika u. 18, 1117 Budapest",+36 1 886 5000,Data verified.
+148,Richter Gedeon Nyrt.,Hungary,"Gyömrői út 19-21, 1103 Budapest",+36 1 431 4000,Data verified.
+149,Magyar Telekom Nyrt.,Hungary,"Krisztina krt. 55., 1013 Budapest",+36 1 458 0000,Data verified.
+150,Waberer's International Nyrt.,Hungary,"Nagykőrösi út 351., 1239 Budapest",+36 1 421 6666,Data verified.
+151,Repsol S.A.,Spain,"Calle Méndez Álvaro, 44, 28045 Madrid",+34 91 753 8100,Data verified.
+152,Telefónica S.A.,Spain,"Calle Gran Vía, 28, 28013 Madrid",+34 91 584 1400,Data verified.
+153,CEPSA,Spain,"Paseo de la Castellana, 259A, 28046 Madrid",+34 91 337 6000,Data verified.
+154,Sacyr S.A.,Spain,"Calle Condesa de Venadito, 7, 28027 Madrid",+34 91 545 5000,Data verified.
+155,NH Hotel Group,Spain,"Calle Santa Engracia, 120, 28003 Madrid",+34 91 600 8140,Data verified.
+156,Naturgy Energy Group,Spain,"Plaça del Gas, 1, 08003 Barcelona",+34 900 100 251,Address verified; phone could not be verified – provided number is customer service; HQ main line not published.
+157,Indra Sistemas S.A.,Spain,"Avenida de Bruselas, 35, 28108 Alcobendas",+34 91 480 5000,Data verified.
+158,Grifols S.A.,Spain,"Calle Jesús y María, 6, 08022 Barcelona",+34 93 571 0100,Unable to verify – address; Grifols HQ is listed at Avinguda de la Generalitat 152 08174 Sant Cugat del Vallès; phone accepted.
+159,Cellnex Telecom,Spain,"Av. de la Via Augusta, 15-25, 08174 Sant Cugat del Vallès",+34 935 021 111,Data verified.
+160,Amadeus IT Group,Spain,"Calle Salvador de Madariaga, 1, 28027 Madrid",+34 91 177 1000,Data verified.
+161,PKN Orlen,Poland,"ul. Chemików 7, 09-411 Płock",+48 24 256 0000,Data verified.
+162,LOTOS Group,Poland,"ul. Elbląska 135, 80-718 Gdańsk",+48 58 308 8000,Data verified.
+163,PGNiG,Poland,"ul. Kasprzaka 25, 01-224 Warsaw",+48 22 589 4500,Data verified.
+164,PKO Bank Polski,Poland,"ul. Puławska 15, 02-515 Warsaw",+48 22 521 7000,Data verified.
+165,Bank Pekao,Poland,"ul. Grzybowska 53/57, 00-844 Warsaw",+48 22 524 9000,Data verified.
+166,Allegro.eu,Poland,"ul. Grunwaldzka 182, 60-166 Poznań",+48 61 630 6000,Data verified.
+167,CD Projekt,Poland,"ul. Jagiellońska 74, 03-301 Warsaw",+48 22 519 6900,Data verified.
+168,KGHM Polska Miedź,Poland,"ul. Marii Skłodowskiej-Curie 48, 59-301 Lubin",+48 76 747 8000,Data verified.
+169,Żabka Polska,Poland,"ul. Stanisława Matyi 8, 61-586 Poznań",+48 61 658 2700,Data verified.
+170,Orbis S.A.,Poland,"ul. Bracka 16, 00-028 Warsaw",+48 22 551 1800,Data verified.
+171,T-Mobile US Inc.,USA,"12920 SE 38th Street, Bellevue, WA 98006",+1 425-378-4000,Data verified.
+172,General Motors Company,USA,"300 Renaissance Center, Detroit, MI 48243",+1 313-667-1500,Address verified; phone could not be verified – official HQ phone commonly listed as (313) 665-4730; provided number differs.
+173,Ford Motor Company,USA,"1 American Road, Dearborn, MI 48126",+1 313-322-3000,Data verified.
+174,Delta Air Lines Inc.,USA,"1030 Delta Blvd, Atlanta, GA 30354",+1 404-715-2600,Data verified.
+175,American Airlines Group,USA,"1 Skyview Dr, Fort Worth, TX 76155",+1 817-963-1234,Address verified; phone could not be verified – multiple corporate numbers listed; main often cited as (682) 278-9000.
+176,United Airlines Holdings,USA,"233 S. Wacker Drive, Chicago, IL 60606",+1 872-825-4000,Data verified.
+177,Southwest Airlines Co.,USA,"2702 Love Field Dr, Dallas, TX 75235",+1 214-792-4000,Data verified.
+178,Marriott International Inc.,USA,"7750 Wisconsin Ave, Bethesda, MD 20814",+1 301-380-3000,Data verified.
+179,Hilton Worldwide Holdings,USA,"7930 Jones Branch Drive, McLean, VA 22102",+1 703-883-1000,Data verified.
+180,Wynn Resorts Limited,USA,"3131 Las Vegas Blvd S, Las Vegas, NV 89109",+1 702-770-7000,Data verified.
+181,MGM Resorts International,USA,"3600 S Las Vegas Blvd, Las Vegas, NV 89109",+1 702-891-1111,Address verified; phone could not be verified – official HQ phone commonly listed as (702) 693-7120; provided number differs.
+182,Las Vegas Sands Corp.,USA,"3355 Las Vegas Blvd S, Las Vegas, NV 89109",+1 702-414-1000,Data verified.
+183,Pfizer Inc.,USA,"235 East 42nd Street, New York, NY 10017",+1 212-733-2323,Phone verified; address could not be verified – HQ relocated to 66 Hudson Boulevard East (2023).
+184,Johnson & Johnson,USA,"1 Johnson & Johnson Plaza, New Brunswick, NJ 08933",+1 732-524-0400,Data verified.
+185,Moderna Inc.,USA,"200 Technology Square, Cambridge, MA 02139",+1 617-714-6500,Phone verified; address could not be verified – HQ now at 325 Binney St Cambridge MA 02142.
+186,AbbVie Inc.,USA,"1 N Waukegan Rd, North Chicago, IL 60064",+1 847-932-7900,Data verified.
+187,Amgen Inc.,USA,"One Amgen Center Drive, Thousand Oaks, CA 91320",+1 805-447-1000,Data verified.
+188,Gilead Sciences Inc.,USA,"333 Lakeside Drive, Foster City, CA 94404",+1 650-574-3000,Data verified.
+189,Eli Lilly and Company,USA,"Lilly Corporate Center, Indianapolis, IN 46285",+1 317-276-2000,Data verified.
+190,Biogen Inc.,USA,"225 Binney Street, Cambridge, MA 02142",+1 617-679-2000,Address verified; phone could not be verified – official HQ phone commonly listed as +1 781-464-2000; provided number differs.
+191,CVS Health Corporation,USA,"1 CVS Drive, Woonsocket, RI 02895",+1 401-765-1500,Data verified.
+192,Walgreens Boots Alliance,USA,"108 Wilmot Rd, Deerfield, IL 60015",+1 847-315-2500,Address verified; phone could not be verified – main HQ line commonly listed as +1 847-315-3700.
+193,The Home Depot Inc.,USA,"2455 Paces Ferry Road NW, Atlanta, GA 30339",+1 770-433-8211,Data verified.
+194,Lowe’s Companies Inc.,USA,"1000 Lowe's Blvd, Mooresville, NC 28117",+1 704-758-1000,Data verified.
+195,Best Buy Co. Inc.,USA,"7601 Penn Ave S, Richfield, MN 55423",+1 612-291-1000,Data verified.
+196,Target Corporation,USA,"1000 Nicollet Mall, Minneapolis, MN 55403",+1 612-304-6073,Data verified.
+197,Kroger Co.,USA,"1014 Vine Street, Cincinnati, OH 45202",+1 513-762-4000,Data verified.
+198,Costco Wholesale Corporation,USA,"999 Lake Dr, Issaquah, WA 98027",+1 425-313-8100,Data verified.
+199,Whole Foods Market,USA,"550 Bowie St, Austin, TX 78703",+1 512-477-4455,Data verified.
+200,Publix Super Markets,USA,"3300 Publix Corporate Pkwy, Lakeland, FL 33811",+1 863-688-1188,Data verified.
+201,H-E-B Grocery Company,USA,"646 S Main Ave, San Antonio, TX 78204",+1 210-938-8000,Phone verified; address could not be verified – HQ listed as 646 S. Flores St. San Antonio TX 78204.
+202,Albertsons Companies Inc.,USA,"250 Parkcenter Blvd, Boise, ID 83706",+1 208-395-6200,Data verified.
+203,General Electric Company,USA,"5 Necco Street, Boston, MA 02210",+1 617-443-3000,Data verified.
+204,Honeywell International Inc.,USA,"300 South Tryon Street, Charlotte, NC 28202",+1 704-627-6200,Address verified; phone could not be verified – HQ main line commonly listed as (704) 627-6190.
+205,3M Company,USA,"2501 Hudson Road, Maplewood, MN 55144",+1 651-733-1110,Data verified.
+206,Caterpillar Inc.,USA,"501 Southwest Jefferson Avenue, Peoria, IL 61630",+1 309-675-1000,Address could not be verified – company relocated HQ to Irving TX; Peoria address is historical.
+207,Deere & Company,USA,"One John Deere Place, Moline, IL 61265",+1 309-765-8000,Data verified.
+208,Boeing Company,USA,"929 Long Bridge Drive, Arlington, VA 22202",+1 703-465-3500,Data verified.
+209,Lockheed Martin Corporation,USA,"6801 Rockledge Drive, Bethesda, MD 20817",+1 301-897-6000,Data verified.
+210,Northrop Grumman Corporation,USA,"2980 Fairview Park Drive, Falls Church, VA 22042",+1 703-280-2900,Data verified.
+211,Raytheon Technologies Corporation,USA,"1000 Wilson Blvd, Arlington, VA 22209",+1 781-522-3000,Data verified.
+212,SpaceX,USA,"1 Rocket Road, Hawthorne, CA 90250",+1 310-363-6000,Data verified.
+213,Blue Origin,USA,"21218 76th Ave S, Kent, WA 98032",+1 253-437-9300,Data verified.
+214,Palantir Technologies,USA,"1200 17th St, Denver, CO 80202",+1 720-358-3679,Data verified.
+215,Snap Inc.,USA,"2772 Donald Douglas Loop N, Santa Monica, CA 90405",+1 310-399-3339,Phone verified; address could not be verified – official HQ listed as 3000 31st Street Santa Monica CA 90405.
+216,Reddit Inc.,USA,"548 Market St, San Francisco, CA 94104",+1 415-675-4832,Address verified; phone could not be verified – mailing/legal address used; phone differs from commonly listed.
+217,Zoom Video Communications,USA,"55 Almaden Blvd, San Jose, CA 95113",+1 888-799-9666,Address verified; phone could not be verified – provided number is customer support.
+218,"Pinterest, Inc.",USA,"505 Brannan St, San Francisco, CA 94107",+1 415-762-7100,Address verified; phone could not be verified – commonly listed HQ phone is +1 650-308-4604.
+219,"DoorDash, Inc.",USA,"303 2nd St, San Francisco, CA 94107",+1 855-973-1040,Address verified; phone could not be verified – provided number is customer support.
+220,Instacart,USA,"50 Beale St Suite 600, San Francisco, CA 94105",+1 888-246-7822,Address verified; phone could not be verified – provided number is customer service.
+221,"Okta, Inc.",USA,"100 First Street, San Francisco, CA 94105",+1 888-722-7871,Address verified; phone could not be verified – provided number is customer support; business line commonly listed as (800) 425-1267.
+222,Atlassian Corporation,USA,"350 Bush Street, Floor 13, San Francisco, CA 94104",+1 415-701-1110,Data verified.
+223,"ServiceNow, Inc.",USA,"2225 Lawson Lane, Santa Clara, CA 95054",+1 408-501-8550,Data verified.
+224,Intuit Inc.,USA,"2700 Coast Ave, Mountain View, CA 94043",+1 650-944-6000,Data verified.
+225,Adobe Inc.,USA,"345 Park Avenue, San Jose, CA 95110",+1 408-536-6000,Data verified.
+226,"Autodesk, Inc.",USA,"111 McInnis Parkway, San Rafael, CA 94903",+1 415-507-5000,Data verified.
+227,"Cisco Systems, Inc.",USA,"170 West Tasman Dr., San Jose, CA 95134",+1 408-526-4000,Data verified.
+228,"VMware, Inc.",USA,"3401 Hillview Avenue, Palo Alto, CA 94304",+1 877-486-9273,Address verified; phone could not be verified – provided number is toll-free; HQ phone commonly listed as +1 650-427-5000.
+229,Hewlett Packard Enterprise,USA,"11445 Compaq Center Dr W, Houston, TX 77070",+1 650-687-5817,Address could not be verified – official HQ listed as 1701 E Mossy Oaks Rd Spring TX 77389; Houston site is a campus.
+230,HP Inc.,USA,"1501 Page Mill Rd, Palo Alto, CA 94304",+1 650-857-1501,Data verified.
+231,Dell Technologies,USA,"1 Dell Way, Round Rock, TX 78682",+1 800-289-3355,Address verified; phone could not be verified – provided number is customer service; corporate line commonly listed as (512) 338-4400.
+232,Intel Corporation,USA,"2200 Mission College Blvd, Santa Clara, CA 95054",+1 408-765-8080,Data verified.
+233,"Advanced Micro Devices, Inc.",USA,"2485 Augustine Dr, Santa Clara, CA 95054",+1 408-749-4000,Data verified.
+234,NVIDIA Corporation,USA,"2788 San Tomas Expressway, Santa Clara, CA 95051",+1 408-486-2000,Data verified.
+235,Texas Instruments,USA,"12500 TI Blvd, Dallas, TX 75243",+1 972-995-2011,Data verified.
+236,Qualcomm Inc.,USA,"5775 Morehouse Dr, San Diego, CA 92121",+1 858-587-1121,Data verified.
+237,Micron Technology,USA,"8000 S Federal Way, Boise, ID 83716",+1 208-368-4000,Data verified.
+238,Western Digital Corporation,USA,"5601 Great Oaks Pkwy, San Jose, CA 95119",+1 408-717-6000,Data verified.
+239,Seagate Technology,USA,"47488 Kato Rd, Fremont, CA 94538",+1 408-658-1000,Data verified.
+240,"Dropbox, Inc.",USA,"1800 Owens St, San Francisco, CA 94158",+1 415-857-6800,Data verified.
+241,"Box, Inc.",USA,"900 Jefferson Ave, Redwood City, CA 94063",+1 877-729-4269,Address verified; phone could not be verified – provided number is customer/inquiry line; corporate line varies.
+242,"MongoDB, Inc.",USA,"1633 Broadway, 38th Floor, New York, NY 10019",+1 866-237-8815,Data verified.
+243,Elastic N.V.,USA,"800 W El Camino Real, Suite 350, Mountain View, CA 94040",+1 650-458-2620,Data verified.
+244,"Datadog, Inc.",USA,"620 8th Ave, 45th Floor, New York, NY 10018",+1 866-329-4466,Data verified.
+245,"New Relic, Inc.",USA,"188 Spear St #1200, San Francisco, CA 94105",+1 650-777-7600,Address verified; phone could not be verified – Suite and phone variants exist; official listings use Suite 1000.
+246,Splunk Inc.,USA,"270 Brannan St, San Francisco, CA 94107",+1 415-848-8400,Data verified.
+247,"Zscaler, Inc.",USA,"120 Holger Way, San Jose, CA 95134",+1 408-533-0288,Address verified; phone could not be verified – provided number appears office/contact; corporate HQ phone not broadly published.
+248,"CrowdStrike Holdings, Inc.",USA,"150 Mathilda Pl #300, Sunnyvale, CA 94086",+1 888-512-8906,Data verified.
+249,"SentinelOne, Inc.",USA,"444 Castro St, Suite 400, Mountain View, CA 94041",+1 855-868-3733,Data verified.
+250,"Cloudflare, Inc.",USA,"101 Townsend St, San Francisco, CA 94107",+1 650-319-8930,Address verified; phone could not be verified – provided number is contact; HQ main line not published.
+251,"Fastly, Inc.",USA,"475 Brannan St, San Francisco, CA 94107",+1 844-432-7857,Data verified.
+252,"SquareSpace, Inc.",USA,"225 Varick St, New York, NY 10014",+1 646-580-3456,Data verified.
+253,Shopify Inc.,Canada,"151 O'Connor St, Ottawa, ON K2P 2L8",+1 613-241-2828,Data verified.
+254,Lightspeed Commerce Inc.,Canada,"700 St-Antoine St E Suite 300, Montreal, QC H2Y 1A6",+1 514-907-1801,Data verified.
+255,OpenText Corporation,Canada,"275 Frank Tompa Dr, Waterloo, ON N2L 0A1",+1 519-888-7111,Data verified.
+256,Magna International Inc.,Canada,"337 Magna Dr, Aurora, ON L4G 7K1",+1 905-726-2462,Data verified.
+257,Canadian National Railway,Canada,"935 de La Gauchetière St W, Montreal, QC H3B 2M9",+1 888-888-5909,Address verified; phone could not be verified – provided number is customer service; corporate HQ main line not published.
+258,SNC-Lavalin Group Inc.,Canada,"455 René-Lévesque Blvd W, Montreal, QC H2Z 1Z3",+1 514-393-1000,Data verified.
+259,Bombardier Inc.,Canada,"800 René-Lévesque Blvd W, Montreal, QC H3B 1Y8",+1 514-861-9481,Data verified.
+260,BlackBerry Limited,Canada,"2200 University Ave E, Waterloo, ON N2K 0A7",+1 519-888-7465,Data verified.
+261,Manulife Financial Corporation,Canada,"200 Bloor St E, Toronto, ON M4W 1E5",+1 416-926-3000,Data verified.

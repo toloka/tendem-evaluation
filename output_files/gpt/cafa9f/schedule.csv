@@ -1,0 +1,11 @@
+
+Week,Match1_Home,Match1_Away,Match2_Home,Match2_Away,Match3_Home,Match3_Away,Match4_Home,Match4_Away,Bye
+Week 1,Wallkill Valley,Hopatcong,Hackettstown,Boonton,Parsippany,Kittatinny,Junior Knights,Ringwood,Lenape Valley
+Week 2,Ringwood,Parsippany,Kittatinny,Hackettstown,Boonton,Wallkill Valley,Hopatcong,Lenape Valley,Junior Knights
+Week 3,Hackettstown,Lenape Valley,Parsippany,Hopatcong,Junior Knights,Boonton,Ringwood,Kittatinny,Wallkill Valley
+Week 4,Kittatinny,Junior Knights,Boonton,Parsippany,Hopatcong,Hackettstown,Lenape Valley,Wallkill Valley,Ringwood
+Week 5,Parsippany,Wallkill Valley,Junior Knights,Lenape Valley,Ringwood,Hopatcong,Kittatinny,Boonton,Hackettstown
+Week 6,Boonton,Ringwood,Hopatcong,Junior Knights,Lenape Valley,Parsippany,Wallkill Valley,Hackettstown,Kittatinny
+Week 7,Junior Knights,Hackettstown,Ringwood,Wallkill Valley,Kittatinny,Lenape Valley,Boonton,Hopatcong,Parsippany
+Week 8,Hopatcong,Kittatinny,Lenape Valley,Ringwood,Wallkill Valley,Junior Knights,Hackettstown,Parsippany,Boonton
+Week 9,Lenape Valley,Boonton,Wallkill Valley,Kittatinny,Hackettstown,Ringwood,Parsippany,Junior Knights,Hopatcong

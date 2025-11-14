@@ -1,0 +1,403 @@
+{
+  "patterns": [
+    {
+      "name": "Currency localization & fairness (regional pricing, trial sticker shock)",
+      "tag": "under-emphasized",
+      "mentions": 17,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 1,
+          "quote": "Feels trapped by distance to gym or high membership costs"
+        },
+        {
+          "src": "research",
+          "page": 2,
+          "quote": "Gets frustrated by apps that oversell capabilities or have hidden pricing"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "one experience but delivers another, often with hidden costs, aggressive upselling, or"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "Pricing varies by location, making cost unpredictable"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "to have hidden costs.\""
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "deliver another, often with hidden costs, aggressive upselling, or unrealistic promises. This"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "Regional pricing variations surprise and anger users"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "many 'free' apps turned out to have hidden costs\""
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "Positioning FitFlow as  radically transparent  with no hidden costs and honest timelines is a key"
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "\"No hidden costs. No surprises.\""
+        }
+      ]
+    },
+    {
+      "name": "Import/switching friction (data portability between apps)",
+      "tag": "new",
+      "mentions": 2,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 5,
+          "quote": "Allow users to import data from other apps to reduce switching friction"
+        }
+      ]
+    },
+    {
+      "name": "Custom exercise logging & granular control (spreadsheet-like flexibility)",
+      "tag": "under-emphasized",
+      "mentions": 5,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "\"My ideal fitness app would basically be a more powerful spreadsheet with more"
+        },
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "granular control.\""
+        },
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "Offer multiple ways to log effort (custom exercises, rep ranges, perceived exertion)"
+        },
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "Allow custom exercise logging without forcing predefined templates"
+        }
+      ]
+    },
+    {
+      "name": "Mature/serious visual design preference (avoid cartoonish UI)",
+      "tag": "under-emphasized",
+      "mentions": 4,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Users want \"serious\" design that respects their intelligence"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "\"Why do all AI language tools have cartoon avatars? I want something serious.\""
+        }
+      ]
+    },
+    {
+      "name": "Accountability partner model (lightweight social, not feed-based)",
+      "tag": "under-emphasized",
+      "mentions": 3,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Accountability from peers or coaches is valued"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Create accountability partnerships without forced interaction"
+        }
+      ]
+    },
+    {
+      "name": "Privacy & opt-in controls for social features",
+      "tag": "under-emphasized",
+      "mentions": 4,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Some users prefer privacy; others crave community"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Offer optional social features (challenges, progress sharing)"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Allow users to opt-in to community features rather than forcing them"
+        },
+        {
+          "src": "manager",
+          "page": 4,
+          "quote": "Implication: Build community features as opt-in, not default."
+        }
+      ]
+    },
+    {
+      "name": "Onboarding clarity & expectation-setting (realistic timelines)",
+      "tag": "under-emphasized",
+      "mentions": 16,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 1,
+          "quote": "Wants realistic guidance, not overpromised \"fast results\""
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "Show real user testimonials and realistic timelines"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Beginner-focused apps often feel childish or unrealistic"
+        },
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "reality. They don't need more features or hype\u2014they need honesty, flexibility, and recognition"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "deliver another, often with hidden costs, aggressive upselling, or unrealistic promises. This"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "YouTube fitness content creates unrealistic expectations (\"get fit in 30 days\")"
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "Positioning FitFlow as  radically transparent  with no hidden costs and honest timelines is a key"
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "\"Progress takes time. We're honest about it.\""
+        },
+        {
+          "src": "manager",
+          "page": 4,
+          "quote": "For remote workers and distance-bound fitness enthusiasts who want honest progress tracking"
+        }
+      ]
+    },
+    {
+      "name": "Recovery-first UX (catch-up, gentle restart flows)",
+      "tag": "under-emphasized",
+      "mentions": 10,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 2,
+          "quote": "Frequently stops and restarts routines"
+        },
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "Breaks feel like \"total resets\" that reduce willingness to restart"
+        },
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "Offer recovery pathways after breaks (Catch-Up Mode)"
+        },
+        {
+          "src": "research",
+          "page": 5,
+          "quote": "Celebrate consistency and recovery, not just achievement"
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "fluctuations). When users miss a day, they feel they've failed and struggle to restart."
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "Recovery pathways after breaks (Catch-Up Mode)"
+        },
+        {
+          "src": "manager",
+          "page": 4,
+          "quote": "Phase 2: Recovery pathways + low-energy modes"
+        },
+        {
+          "src": "manager",
+          "page": 5,
+          "quote": "Gather feedback on recovery pathway design"
+        }
+      ]
+    },
+    {
+      "name": "Effort calibration prompts (how are you today? -> adaptive plan)",
+      "tag": "under-emphasized",
+      "mentions": 20,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 2,
+          "quote": "Plans workouts but struggles with unpredictable energy and schedule changes"
+        },
+        {
+          "src": "research",
+          "page": 2,
+          "quote": "Studies fitness in short bursts when energy allows"
+        },
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "matter how much you plan, energy levels alter everything.\""
+        },
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "\"Energy and health fluctuate; rigid systems don't adapt.\""
+        },
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "Provide low-energy micro-workouts for high-stress periods"
+        },
+        {
+          "src": "manager",
+          "page": 2,
+          "quote": "Low-energy micro-workout options for high-stress periods"
+        },
+        {
+          "src": "manager",
+          "page": 3,
+          "quote": "Post-workout effort rating (\"How hard did you push today?\")"
+        },
+        {
+          "src": "manager",
+          "page": 3,
+          "quote": "Celebrating low-energy days as part of the journey"
+        },
+        {
+          "src": "manager",
+          "page": 4,
+          "quote": "Apps rarely account for ADHD, disabilities, or variable energy levels. This excludes a significant"
+        },
+        {
+          "src": "manager",
+          "page": 4,
+          "quote": "Implication: Accessibility features (low-energy modes, variable rep schemes, flexible"
+        }
+      ]
+    },
+    {
+      "name": "Long-term trend visualization (weekly/monthly views vs daily)",
+      "tag": "under-emphasized",
+      "mentions": 4,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 4,
+          "quote": "Normalize breaks as part of long-term fitness, not failures"
+        },
+        {
+          "src": "research",
+          "page": 8,
+          "quote": "Show long-term progress journeys, not just daily performance"
+        },
+        {
+          "src": "manager",
+          "page": 3,
+          "quote": "Progress visualization showing long-term trends, not daily performance"
+        }
+      ]
+    },
+    {
+      "name": "Serious beginner-to-advanced progression (design maturity)",
+      "tag": "under-emphasized",
+      "mentions": 6,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Beginner-focused apps often feel childish or unrealistic"
+        },
+        {
+          "src": "research",
+          "page": 6,
+          "quote": "Advanced users find beginner apps lack depth"
+        },
+        {
+          "src": "research",
+          "page": 7,
+          "quote": "Use progressive disclosure to reveal advanced features gradually"
+        }
+      ]
+    },
+    {
+      "name": "Honest premium/free delineation (reduce bait-and-switch risk)",
+      "tag": "under-emphasized",
+      "mentions": 13,
+      "quotes": [
+        {
+          "src": "research",
+          "page": 1,
+          "quote": "Prefers structured guidance to free-form workouts"
+        },
+        {
+          "src": "research",
+          "page": 2,
+          "quote": "Often feels scammed by \"free\" apps with aggressive monetization"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "\"Free\" apps often have aggressive monetization or paywalls"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "\"I've tried several fitness apps and felt frustrated because many 'free' apps turned out"
+        },
+        {
+          "src": "research",
+          "page": 3,
+          "quote": "Clearly state what's free vs. premium upfront"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "\"Free\" apps have aggressive monetization or hidden paywalls"
+        },
+        {
+          "src": "manager",
+          "page": 1,
+          "quote": "many 'free' apps turned out to have hidden costs\""
+        }
+      ]
+    }
+  ]
+}

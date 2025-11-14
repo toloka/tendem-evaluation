@@ -1,0 +1,32 @@
+Platform,Reason
+Segment,Product analytics/CDP
+Heap,Product analytics
+FullStory,Session analytics
+Crazy Egg,Heatmaps/analytics
+Smartlook,Session analytics
+Sessioncam,Session analytics
+Okta,Identity/SSO
+Auth0,Identity/SSO
+Ping Identity,Identity/SSO
+Duo Security,MFA/Security
+Tenable,Vulnerability management
+Rapid7,Security analytics
+Qualys,Vulnerability management
+Imperva,WAF/CDN
+Cloudflare,CDN/Edge
+Akamai,Network security
+Palo Alto Networks,Networking/Security
+Cisco,Network security
+Fortinet,Network security
+Check Point,Network security
+Kaspersky,Endpoint security
+McAfee,Endpoint security
+Norton,Consumer AV
+Bitdefender,Endpoint security
+Avast,Consumer AV
+AVG,Consumer AV
+Malwarebytes,Anti-malware
+Trend Micro,Endpoint security
+Sophos,Endpoint security
+ESET,Endpoint security
+Newsletter2Go,Legacy/merged into Brevo (Sendinblue)

@@ -1,0 +1,3 @@
+Total rows: 194
+Employee Count Category valid: 194/194
+Industry Sector valid: 194/194

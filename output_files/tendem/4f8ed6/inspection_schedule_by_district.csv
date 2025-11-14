@@ -1,0 +1,8 @@
+Week,Downtown,Mall Area,Airport Zone,North Residential,South Residential,West Residential,East Residential
+1,Maria Rodriguez,Sarah Mitchell,David Chen,Emily Watson,James Thompson,Lisa Anderson,NA
+2,Emily Watson,James Thompson,Robert Johnson,NA,Lisa Anderson,David Chen,Maria Rodriguez
+3,James Thompson,Maria Rodriguez,Emily Watson,Sarah Mitchell,Robert Johnson,NA,David Chen
+4,David Chen,Emily Watson,Lisa Anderson,James Thompson,NA,Sarah Mitchell,Robert Johnson
+5,Lisa Anderson,David Chen,Maria Rodriguez,Robert Johnson,Sarah Mitchell,James Thompson,NA
+6,Robert Johnson,Lisa Anderson,Sarah Mitchell,NA,David Chen,Maria Rodriguez,Emily Watson
+7,Sarah Mitchell,Robert Johnson,James Thompson,Maria Rodriguez,Emily Watson,NA,Lisa Anderson

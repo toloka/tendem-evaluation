@@ -1,0 +1,77 @@
+{
+  "total_pages": 340,
+  "accepted_pages_count": 6,
+  "placeholders_count": 334,
+  "placeholders_sample": [
+    {
+      "page": 1,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Trends \u2013",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 2,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Trends \u2013 Artificial Intelligence (AI)",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 3,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Context",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 4,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Outline",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 5,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Charts Paint Thousands of Words\u2026",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 6,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "\u2026Charts Paint Thousands of Words\u2026",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 7,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "\u2026Charts Paint Thousands of Words",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 8,
+      "section": "Front Matter / Appendix",
+      "title_excerpt": "Overview\u2026",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 9,
+      "section": "1 Seem Like Change Happening Faster Than Ever? Because It Is",
+      "title_excerpt": "\u2026Overview",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    },
+    {
+      "page": 10,
+      "section": "1 Seem Like Change Happening Faster Than Ever? Because It Is",
+      "title_excerpt": "Outline",
+      "status": "Chart/image-only or non-extractable",
+      "workaround": "Placeholder created; retain image in Slides; consider manual data capture if critical"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+PDL-2025-0892: restored printed totals and formatted currency with £; distributed printed discount where applicable.
+ISC-2025-1547: restored printed totals and formatted currency with £; distributed printed discount where applicable.
+HCP-2025-0334: restored printed totals and formatted currency with £; distributed printed discount where applicable.
+GLA-2025-2156: restored printed totals and formatted currency with £; distributed printed discount where applicable.
+TNE-2025-5423: restored printed totals and formatted currency with £; distributed printed discount where applicable.

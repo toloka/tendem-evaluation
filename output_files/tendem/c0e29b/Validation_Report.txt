@@ -1,0 +1,41 @@
+Validation Report: Email Marketing Platforms Dataset
+======================================================
+File: Email platforms.xlsx
+Sheet: Email Platforms
+Date Validated: 2025-11-01
+
+1. Column Validation
+--------------------
+✅ All required columns are present:
+   - Platform
+   - Email Campaign Building
+   - Marketing Automation
+   - CRM Integration
+   - Analytics & Reporting
+   - E-commerce Integration
+   - A/B Testing
+   - Pricing Tier
+No unexpected columns found.
+
+2. Feature Completeness
+-----------------------
+✅ All platforms contain 'Yes' or 'No' values for each required feature.
+No blanks or 'N/A' entries detected.
+
+3. Pricing Tier Validation
+--------------------------
+✅ All entries match the allowed pricing tier categories.
+No formatting or spelling issues found.
+
+4. Consistency Checks
+---------------------
+✅ Feature values consistently use 'Yes' and 'No'.
+No case sensitivity or dash uniformity issues detected.
+
+5. Duplicates and Outliers
+--------------------------
+✅ No duplicate platform names found.
+✅ All rows contain complete feature data.
+
+------------------------------------------------------
+Overall Validation Result: ✅ PASS

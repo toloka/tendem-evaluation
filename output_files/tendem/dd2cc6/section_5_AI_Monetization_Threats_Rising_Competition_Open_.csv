@@ -1,0 +1,137 @@
+TABLE FROM PAGE 275,ORIG: page_275_table_02.csv
+1.0,Microsoft,USA,Software / AI,3368000000000.0
+2.0,NVIDIA,USA,Semis / AI,3288.0
+3.0,Apple,USA,Hardware / AI,3158.0
+4.0,Amazon,USA,Internet / AI,2178.0
+5.0,Alphabet (Google),USA,Internet / AI,1997.0
+6.0,Saudi Aramco,Saudi Arabia,Energy,1686.0
+7.0,Meta Platforms (Facebook),USA,Internet / AI,1619.0
+8.0,Tesla,USA,Auto / AI,1104.0
+9.0,Broadcom,USA,Semis / AI,1094.0
+10.0,Berkshire Hathaway,USA,Finance,1093.0
+11.0,TSMC,Taiwan,Semis / AI,856.0
+12.0,Walmart,USA,Consumer Products,771.0
+13.0,JP Morgan Chase,USA,Finance,743.0
+14.0,Visa,USA,Finance,678.0
+15.0,Eli Lilly,USA,Healthcare,658.0
+16.0,Tencent,China,Software / AI,591.0
+17.0,Mastercard,USA,Finance,529.0
+18.0,Netflix,USA,Internet / AI,501.0
+19.0,Exxon Mobil,USA,Energy,468.0
+20.0,Costco Wholesale,USA,Consumer Products,448.0
+21.0,Oracle,USA,Hardware / AI,447.0
+22.0,Procter & Gamble,USA,Consumer Products,381.0
+23.0,Home Depot,USA,Consumer Products,376.0
+24.0,Johnson & Johnson,USA,Consumer Products,360.0
+25.0,SAP,Germany,Software / AI,343.0
+26.0,Bank of America,USA,Finance,334.0
+27.0,ICBC,China,Finance,330.0
+28.0,AbbVie,USA,Healthcare,321.0
+29.0,Coca-Cola,USA,Consumer Products,308.0
+30.0,Palantir,USA,Software / AI,302.0
+TABLE FROM PAGE 276,ORIG: page_276_table_02.csv
+1.0,Nippon Telegraph,Japan,Telco,128000000000.0
+2.0,General Electric,USA,Industrials,120.0
+3.0,AT&T,USA,Telco,103.0
+4.0,Exxon,USA,Energy,100.0
+5.0,Coca-Cola,USA,Consumer Products,94.0
+6.0,Merck,USA,Healthcare,81.0
+7.0,Toyota,Japan,Automotive,79.0
+8.0,Roche,Switzerland,Healthcare,78.0
+9.0,Altria,USA,Consumer Products,75.0
+10.0,Industrial Bank of Japan,Japan,Finance,71.0
+11.0,MUFG Bank,Japan,Finance,68.0
+12.0,SumimotoMitsui,Japan,Finance,66.0
+13.0,Fuji Bank,Japan,Finance,64.0
+14.0,Dai-Ichi Kangyo Bank,Japan,Finance,61.0
+15.0,UFJ Bank,Japan,Finance,59.0
+16.0,Novartis,Switzerland,Healthcare,57.0
+17.0,Procter & Gamble,USA,Consumer Products,57.0
+18.0,Johnson & Johnson,USA,Consumer Products,55.0
+19.0,Microsoft,USA,Software,52.0
+20.0,Walmart,USA,Consumer Products,51.0
+21.0,IBM,USA,Hardware / Software,51.0
+22.0,DirecTV,USA,Media,49.0
+23.0,Intel,USA,Hardware,47.0
+24.0,BP,United Kingdom,Energy,46.0
+25.0,Nestle,Switzerland,Consumer Products,45.0
+26.0,Mobil,USA,Energy,44.0
+27.0,PepsiCo,USA,Consumer Products,44.0
+28.0,AIG,USA,Finance,44.0
+29.0,Shell,United Kingdom,Energy,44.0
+30.0,Sakura Bank,Japan,Finance,43.0
+TABLE FROM PAGE 278,ORIG: page_278_table_02.csv
+1.0,Microsoft,USA,Software / AI,3368000000000.0
+2.0,NVIDIA,USA,Semis / AI,3288.0
+3.0,Apple,USA,Hardware / AI,3158.0
+4.0,Amazon,USA,Internet / AI,2178.0
+5.0,Alphabet (Google),USA,Internet / AI,1997.0
+6.0,Meta Platforms (Facebook),USA,Internet / AI,1619.0
+7.0,Tesla,USA,Auto / AI,1104.0
+8.0,Broadcom,USA,Semis / AI,1094.0
+9.0,TSMC,Taiwan,Semis / AI,856.0
+10.0,Tencent,China,Software / AI,591.0
+11.0,Netflix,USA,Internet / AI,501.0
+12.0,Oracle,USA,Hardware / AI,447.0
+13.0,SAP,Germany,Software / AI,343.0
+14.0,Palantir,USA,Software / AI,302.0
+15.0,ASML,Netherlands,Semis / AI,300.0
+16.0,Alibaba,China,Internet / AI,281.0
+17.0,Salesforce,USA,Software / AI,279.0
+18.0,T-Mobile,USA,Telco,273.0
+19.0,Samsung,S. Korea,Hardware / AI,268.0
+20.0,Cisco,USA,Semis / AI,256.0
+21.0,IBM,USA,Hardware / AI,243.0
+22.0,China Mobile,China,Telco,241.0
+23.0,Reliance,India,Telco,216.0
+24.0,ServiceNow,USA,Software / AI,214.0
+25.0,Intuitive Surgical,USA,Health Tech,201.0
+26.0,AT&T,USA,Telco,197.0
+27.0,Siemens,Germany,Hardware / AI,194.0
+28.0,Uber,USA,Internet / AI,189.0
+29.0,AMD,USA,Semis / AI,186.0
+30.0,Intuit,USA,Software / AI,185.0
+TABLE FROM PAGE 279,ORIG: page_279_table_02.csv
+1.0,Nippon Telegraph,Japan,Telco,128000000000.0
+2.0,AT&T,USA,Telco,103.0
+3.0,Microsoft,USA,Software,52.0
+4.0,IBM,USA,Hardware / Software,51.0
+5.0,Intel,USA,Hardware,47.0
+6.0,BellSouth,USA,Telco,43.0
+7.0,HP,USA,Hardware,43.0
+8.0,GTE,USA,Telco,42.0
+9.0,BT,United Kingdom,Telco,34.0
+10.0,Panasonic,Japan,Hardware,34.0
+11.0,SingTel,Singapore,Telco,34.0
+12.0,Motorola,USA,Hardware,34.0
+13.0,Hitachi,Japan,Hardware,33.0
+14.0,Verizon,USA,Telco,29.0
+15.0,Toshiba,Japan,Hardware,26.0
+16.0,Peraton,USA,Software / Hardware,25.0
+17.0,Nynex,USA,Telco,24.0
+18.0,Sony,Japan,Hardware,22.0
+19.0,Cisco,USA,Hardware,21.0
+20.0,Fujitsu,Japan,Hardware,20.0
+21.0,PCCW,Hong Kong,Telco,20.0
+22.0,NEC,Japan,Software,19.0
+23.0,Oracle,USA,Hardware,18.0
+24.0,MCI,USA,Telco,18.0
+25.0,Sharp,Japan,Hardware,18.0
+26.0,TelMex,Mexico,Telco,17.0
+27.0,KDDI,Japan,Telco,17.0
+28.0,US West,USA,Telco,17.0
+29.0,Cable & Wireless,USA,Telco,16.0
+30.0,Telekom Malaysia,Malaysia,Telco,16.0
+TABLE FROM PAGE 296,ORIG: page_296_table_02.csv
+nan,nan,nan,nan,nan,nan,nan,nan
+"LLM
+Apps",ChatGPT,nan,nan,nan,nan,nan,nan
+nan,DeepSeek,34.0,20.0,18.0,43.0,48.0,55.0
+nan,Grok,4.0,14.0,16.0,3.0,16.0,31.0
+nan,Gemini*,16.0,17.0,15.0,20.0,21.0,21.0
+nan,Perplexity,3.0,4.0,4.0,10.0,12.0,14.0
+nan,Claude,1.0,1.0,1.0,3.0,4.0,3.0
+"‘Traditional’
+Apps",YouTube,13.0,10.0,9.0,2799.0,2805.0,2809.0
+nan,Google Chrome,9.0,9.0,7.0,2369.0,2380.0,2387.0
+nan,Facebook,46.0,47.0,45.0,2104.0,2110.0,2103.0

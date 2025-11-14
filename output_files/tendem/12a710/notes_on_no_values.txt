@@ -1,0 +1,19 @@
+Notes on 'no' values in the comparative table
+
+What does 'no' mean?
+- A cell marked 'no' indicates that, for that city–source pair, we could not identify a reliable, directly extractable population figure (with year) from the specified source under the source’s own scope and data structure.
+
+Reasons by source:
+- Eurostat URB_CPOPSTR: This dataset contains population structure indicators (shares, ratios, age composition, etc.), not absolute totals. Therefore, all cells for this source are 'no' by design.
+- GitHub Capital Cities CSV: The referenced file lists capital names and coordinates only; it does not contain population or reference years. All cells for this source are 'no'.
+- EEA Datahub (City population layer): Coverage is limited to 2007–2018 and relies on Eurostat (urb_cpop1) plus supplemental web searches for gaps. Some capital names may not be present under expected labels, and several cities have no matching record; those are marked 'no'.
+- Eurostat Cities DB (urb_cpop1): Values are provided for "cities and greater cities". If a selected capital (e.g., Wien, Athína) was not available under the expected city/greater-city label at the time of extraction, the cell is 'no'.
+- Wikipedia: The page aggregates official figures, but matching relies on specific spellings/entries. If the target city name or local-language variant was not found in the parsed table, the cell is 'no'.
+
+How to resolve a specific 'no':
+- Try alternate official labels/endonyms (e.g., Bruxelles/Brussel vs Brussels; Wien vs Vienna; Athína/Athina vs Athens; Rīga vs Riga) within the same source.
+- For Eurostat (urb_cpop1), confirm whether "city" or "greater city" applies and adjust the selection accordingly.
+- For the EEA layer, consider querying by Urban Audit code (URAU_CODE) rather than name.
+
+Transparency note on flags:
+- Where Eurostat 2024 values include observation flags (e.g., (b) break in time series for Berlin and Rome), the values remain official and are kept for recency, but users should be aware that cross-year comparability may be affected.

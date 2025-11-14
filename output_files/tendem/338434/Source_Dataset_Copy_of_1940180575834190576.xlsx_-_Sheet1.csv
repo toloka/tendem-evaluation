@@ -1,0 +1,101 @@
+OrderID,Date,CustomerID,CustomerType,CustomerAgeGroup,Region,ProductCategory,ProductID,ProductName,UnitsSold,UnitPrice,TotalRevenue,IsPromotionApplied,PaymentMethod
+10001,2025-01-20,C022,Returning,55+,West,Home & Kitchen,P0008,Blender Plus,4,232.74,930.96,FALSE,Bank Transfer
+10002,2025-01-09,C008,Returning,55+,South,Clothing,P0015,Winter Jacket,5,124.75,623.75,TRUE,Credit Card
+10003,2025-01-09,C024,Returning,55+,East,Clothing,P0003,T-shirt Pack,1,184.3,184.3,FALSE,Credit Card
+10004,2025-01-01,C035,New,45-54,East,Home & Kitchen,P0009,Microwave Oven,1,45.62,45.62,FALSE,Credit Card
+10005,2025-01-05,C029,New,25-34,North,Clothing,P0003,T-shirt Pack,5,131.65,658.25,FALSE,Bank Transfer
+10006,2025-01-26,C020,New,45-54,North,Clothing,P0011,Denim Jeans,4,102.54,410.16,TRUE,Bank Transfer
+10007,2025-01-08,C027,New,45-54,North,Electronics,P0001,Wireless Charger,1,245.05,245.05,FALSE,PayPal
+10008,2025-01-14,C036,New,25-34,North,Electronics,P0001,Wireless Charger,3,38.59,115.77,FALSE,PayPal
+10009,2025-01-21,C029,New,25-34,North,Electronics,P0001,Wireless Charger,5,215.53,1077.65,FALSE,Credit Card
+10010,2025-01-05,C023,Returning,45-54,North,Home & Kitchen,P0007,Air Fryer,2,126.15,252.3,FALSE,Bank Transfer
+10011,2025-01-30,C017,Returning,18-24,North,Electronics,P0006,Bluetooth Speaker,5,85.37,426.85,FALSE,Credit Card
+10012,2025-01-14,C016,New,55+,West,Clothing,P0011,Denim Jeans,5,259.7,1298.5,FALSE,Bank Transfer
+10013,2025-01-03,C015,New,45-54,South,Home & Kitchen,P0005,Rice Cooker,4,133.65,534.6,FALSE,Bank Transfer
+10014,2025-01-24,C017,Returning,18-24,North,Home & Kitchen,P0013,Coffee Maker,5,33.29,166.45,FALSE,PayPal
+10015,2025-01-02,C009,New,25-34,South,Electronics,P0014,Headphones Pro,5,48.61,243.05,TRUE,Bank Transfer
+10016,2025-01-15,C012,New,45-54,South,Home & Kitchen,P0007,Air Fryer,1,240.73,240.73,TRUE,Bank Transfer
+10017,2025-01-22,C010,New,25-34,North,Clothing,P0012,Sportswear Set,5,285.45,1427.25,FALSE,PayPal
+10018,2025-01-14,C009,New,25-34,South,Electronics,P0010,Tablet Mini,4,228.69,914.76,FALSE,PayPal
+10019,2025-01-08,C013,Returning,25-34,West,Clothing,P0015,Winter Jacket,3,138.69,416.07,TRUE,Bank Transfer
+10020,2025-01-02,C003,New,25-34,East,Electronics,P0010,Tablet Mini,4,79.78,319.12,TRUE,Credit Card
+10021,2025-01-20,C027,New,45-54,North,Clothing,P0012,Sportswear Set,3,96.53,289.59,FALSE,PayPal
+10022,2025-01-29,C004,Returning,25-34,North,Electronics,P0002,Smartwatch X,1,218.3,218.3,TRUE,Bank Transfer
+10023,2025-01-12,C034,New,35-44,West,Home & Kitchen,P0009,Microwave Oven,5,80.08,400.4,FALSE,Bank Transfer
+10024,2025-01-21,C027,New,45-54,North,Electronics,P0006,Bluetooth Speaker,3,268.73,806.19,FALSE,Credit Card
+10025,2025-01-31,C018,New,55+,West,Clothing,P0011,Denim Jeans,3,155.11,465.33,FALSE,Bank Transfer
+10026,2025-01-18,C038,New,55+,North,Electronics,P0010,Tablet Mini,1,123.91,123.91,FALSE,Credit Card
+10027,2025-01-24,C036,New,25-34,North,Electronics,P0010,Tablet Mini,2,99.85,199.7,TRUE,Bank Transfer
+10028,2025-01-18,C029,New,25-34,North,Electronics,P0001,Wireless Charger,4,190.49,761.96,FALSE,Credit Card
+10029,2025-01-10,C010,New,25-34,North,Home & Kitchen,P0009,Microwave Oven,4,149.42,597.68,FALSE,Bank Transfer
+10030,2025-01-02,C037,New,25-34,South,Home & Kitchen,P0013,Coffee Maker,5,90.9,454.5,TRUE,Credit Card
+10031,2025-01-05,C016,New,55+,West,Home & Kitchen,P0005,Rice Cooker,5,268.28,1341.4,TRUE,PayPal
+10032,2025-01-04,C020,New,45-54,North,Clothing,P0011,Denim Jeans,1,46.3,46.3,TRUE,PayPal
+10033,2025-01-15,C035,New,45-54,East,Clothing,P0004,Running Shoes,3,168.78,506.34,FALSE,Bank Transfer
+10034,2025-01-26,C022,Returning,55+,West,Home & Kitchen,P0009,Microwave Oven,5,137.74,688.7,FALSE,Credit Card
+10035,2025-01-21,C013,Returning,25-34,West,Electronics,P0014,Headphones Pro,2,102.83,205.66,TRUE,Credit Card
+10036,2025-01-24,C031,Returning,25-34,East,Home & Kitchen,P0007,Air Fryer,4,93.33,373.32,FALSE,Bank Transfer
+10037,2025-01-11,C011,New,18-24,East,Clothing,P0012,Sportswear Set,1,107.95,107.95,TRUE,PayPal
+10038,2025-01-20,C039,New,25-34,North,Electronics,P0014,Headphones Pro,4,176.44,705.76,FALSE,PayPal
+10039,2025-01-29,C001,New,35-44,South,Home & Kitchen,P0005,Rice Cooker,4,74.91,299.64,FALSE,PayPal
+10040,2025-01-18,C037,New,25-34,South,Home & Kitchen,P0007,Air Fryer,5,251.18,1255.9,FALSE,Bank Transfer
+10041,2025-01-01,C006,New,18-24,North,Electronics,P0001,Wireless Charger,2,85.67,171.34,FALSE,PayPal
+10042,2025-01-19,C036,New,25-34,North,Clothing,P0004,Running Shoes,3,254.6,763.8,FALSE,Credit Card
+10043,2025-01-09,C018,New,55+,West,Home & Kitchen,P0008,Blender Plus,3,62.35,187.05,FALSE,Credit Card
+10044,2025-01-01,C010,New,25-34,North,Electronics,P0010,Tablet Mini,2,278.24,556.48,FALSE,PayPal
+10045,2025-01-21,C005,New,35-44,West,Clothing,P0012,Sportswear Set,2,77.21,154.42,FALSE,Bank Transfer
+10046,2025-01-07,C030,Returning,45-54,East,Home & Kitchen,P0008,Blender Plus,2,57.28,114.56,FALSE,Bank Transfer
+10047,2025-01-20,C025,New,45-54,West,Clothing,P0003,T-shirt Pack,2,204.44,408.88,FALSE,Bank Transfer
+10048,2025-01-24,C015,New,45-54,South,Clothing,P0015,Winter Jacket,4,213.66,854.64,TRUE,Credit Card
+10049,2025-01-21,C028,New,55+,South,Clothing,P0011,Denim Jeans,1,239.15,239.15,FALSE,Credit Card
+10050,2025-01-17,C034,New,35-44,West,Electronics,P0002,Smartwatch X,5,294.17,1470.85,FALSE,PayPal
+10051,2025-01-17,C014,Returning,35-44,South,Clothing,P0003,T-shirt Pack,4,297.79,1191.16,TRUE,PayPal
+10052,2025-01-26,C018,New,55+,West,Clothing,P0003,T-shirt Pack,2,67.21,134.42,FALSE,PayPal
+10053,2025-01-18,C011,New,18-24,East,Clothing,P0012,Sportswear Set,3,228.59,685.77,TRUE,Bank Transfer
+10054,2025-01-11,C025,New,45-54,West,Home & Kitchen,P0008,Blender Plus,2,154.67,309.34,FALSE,Bank Transfer
+10055,2025-01-03,C011,New,18-24,East,Electronics,P0002,Smartwatch X,2,123.4,246.8,FALSE,Bank Transfer
+10056,2025-01-21,C038,New,55+,North,Clothing,P0003,T-shirt Pack,3,259.67,779.01,FALSE,Credit Card
+10057,2025-01-20,C035,New,45-54,East,Electronics,P0002,Smartwatch X,1,234.77,234.77,FALSE,Credit Card
+10058,2025-01-20,C035,New,45-54,East,Home & Kitchen,P0013,Coffee Maker,3,245.44,736.32,FALSE,PayPal
+10059,2025-01-16,C036,New,25-34,North,Electronics,P0001,Wireless Charger,2,74.81,149.62,FALSE,PayPal
+10060,2025-01-19,C013,Returning,25-34,West,Clothing,P0011,Denim Jeans,4,274.45,1097.8,FALSE,Bank Transfer
+10061,2025-01-29,C037,New,25-34,South,Home & Kitchen,P0008,Blender Plus,4,265.23,1060.92,FALSE,PayPal
+10062,2025-01-14,C037,New,25-34,South,Home & Kitchen,P0008,Blender Plus,2,197.76,395.52,FALSE,Credit Card
+10063,2025-01-19,C016,New,55+,West,Clothing,P0015,Winter Jacket,1,61.03,61.03,TRUE,PayPal
+10064,2025-01-29,C021,New,45-54,North,Clothing,P0012,Sportswear Set,2,102.62,205.24,FALSE,Bank Transfer
+10065,2025-01-28,C029,New,25-34,North,Clothing,P0012,Sportswear Set,1,109.24,109.24,FALSE,Credit Card
+10066,2025-01-16,C002,New,45-54,East,Clothing,P0012,Sportswear Set,3,193.02,579.06,FALSE,Credit Card
+10067,2025-01-09,C005,New,35-44,West,Electronics,P0001,Wireless Charger,1,47.94,47.94,FALSE,Credit Card
+10068,2025-01-15,C014,Returning,35-44,South,Home & Kitchen,P0007,Air Fryer,5,192.29,961.45,FALSE,PayPal
+10069,2025-01-03,C036,New,25-34,North,Electronics,P0002,Smartwatch X,4,133.74,534.96,TRUE,PayPal
+10070,2025-01-07,C021,New,45-54,North,Clothing,P0004,Running Shoes,3,167.01,501.03,FALSE,PayPal
+10071,2025-01-08,C040,New,55+,South,Clothing,P0015,Winter Jacket,3,104.46,313.38,FALSE,Credit Card
+10072,2025-01-04,C010,New,25-34,North,Electronics,P0002,Smartwatch X,4,151.05,604.2,FALSE,PayPal
+10073,2025-01-30,C013,Returning,25-34,West,Clothing,P0004,Running Shoes,1,207.81,207.81,FALSE,PayPal
+10074,2025-01-29,C015,New,45-54,South,Electronics,P0014,Headphones Pro,1,108.98,108.98,TRUE,PayPal
+10075,2025-01-02,C003,New,25-34,East,Electronics,P0014,Headphones Pro,1,44.67,44.67,FALSE,Credit Card
+10076,2025-01-05,C010,New,25-34,North,Clothing,P0004,Running Shoes,4,182.45,729.8,FALSE,Bank Transfer
+10077,2025-01-19,C008,Returning,55+,South,Electronics,P0006,Bluetooth Speaker,4,142.27,569.08,FALSE,PayPal
+10078,2025-01-04,C016,New,55+,West,Clothing,P0011,Denim Jeans,5,38.48,192.4,FALSE,PayPal
+10079,2025-01-16,C019,New,45-54,North,Home & Kitchen,P0013,Coffee Maker,1,267.4,267.4,FALSE,Credit Card
+10080,2025-01-24,C021,New,45-54,North,Home & Kitchen,P0007,Air Fryer,5,104.58,522.9,FALSE,Credit Card
+10081,2025-01-26,C039,New,25-34,North,Home & Kitchen,P0013,Coffee Maker,5,41.85,209.25,TRUE,PayPal
+10082,2025-01-25,C010,New,25-34,North,Electronics,P0006,Bluetooth Speaker,4,113.7,454.8,TRUE,Bank Transfer
+10083,2025-01-15,C014,Returning,35-44,South,Home & Kitchen,P0007,Air Fryer,2,160.02,320.04,FALSE,Bank Transfer
+10084,2025-01-01,C023,Returning,45-54,North,Home & Kitchen,P0008,Blender Plus,2,186.62,373.24,FALSE,PayPal
+10085,2025-01-18,C024,Returning,55+,East,Clothing,P0003,T-shirt Pack,5,125.2,626,FALSE,PayPal
+10086,2025-01-04,C014,Returning,35-44,South,Home & Kitchen,P0013,Coffee Maker,5,295.91,1479.55,FALSE,PayPal
+10087,2025-01-27,C019,New,45-54,North,Home & Kitchen,P0008,Blender Plus,1,38.33,38.33,TRUE,Credit Card
+10088,2025-01-31,C030,Returning,45-54,East,Home & Kitchen,P0007,Air Fryer,2,166.29,332.58,FALSE,Bank Transfer
+10089,2025-01-15,C011,New,18-24,East,Clothing,P0011,Denim Jeans,3,197.75,593.25,FALSE,Bank Transfer
+10090,2025-01-20,C016,New,55+,West,Electronics,P0010,Tablet Mini,3,187.19,561.57,TRUE,Credit Card
+10091,2025-01-18,C031,Returning,25-34,East,Clothing,P0015,Winter Jacket,3,30.54,91.62,TRUE,Credit Card
+10092,2025-01-11,C023,Returning,45-54,North,Clothing,P0012,Sportswear Set,4,276.93,1107.72,FALSE,Credit Card
+10093,2025-01-10,C030,Returning,45-54,East,Clothing,P0012,Sportswear Set,5,252.21,1261.05,FALSE,Credit Card
+10094,2025-01-03,C016,New,55+,West,Electronics,P0001,Wireless Charger,4,140.06,560.24,FALSE,PayPal
+10095,2025-01-12,C031,Returning,25-34,East,Electronics,P0001,Wireless Charger,1,113.1,113.1,FALSE,Bank Transfer
+10096,2025-01-20,C011,New,18-24,East,Home & Kitchen,P0008,Blender Plus,5,176.17,880.85,FALSE,Credit Card
+10097,2025-01-21,C031,Returning,25-34,East,Electronics,P0002,Smartwatch X,4,61.65,246.6,FALSE,PayPal
+10098,2025-01-17,C004,Returning,25-34,North,Clothing,P0011,Denim Jeans,2,268.29,536.58,FALSE,PayPal
+10099,2025-01-25,C001,New,35-44,South,Home & Kitchen,P0009,Microwave Oven,5,208.65,1043.25,FALSE,Credit Card
+10100,2025-01-02,C011,New,18-24,East,Clothing,P0011,Denim Jeans,2,264.53,529.06,FALSE,Bank Transfer

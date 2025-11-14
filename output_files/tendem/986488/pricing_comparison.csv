@@ -1,0 +1,21 @@
+Vendor,Plan,M (USD),Q,A (USD),Notes
+Monday.com,Free,0,N/A,0,Up to 2 seats; up to 3 boards and 3 docs; limited automations/integrations
+Monday.com,Basic,12,N/A,9,3-seat minimum for paid plans
+Monday.com,Standard,14,N/A,12,Timeline/Gantt; automations/integrations caps: 250 actions/month
+Monday.com,Pro,24,N/A,19,Private boards; time tracking; automations/integrations caps: 25K actions/month
+Monday.com,Enterprise,Quote,N/A,Quote,Enterprise-scale automations/integrations: 250K actions/month; advanced security/governance
+Asana,Personal (Free),0,N/A,0,Up to 10 teammates; 100MB/file; core views; 100+ integrations
+Asana,Starter,13.49,N/A,10.99,2-seat minimum; Timeline/Gantt; workflow builder; custom fields; unlimited automations
+Asana,Advanced,30.49,N/A,24.99,Portfolios; Goals; Workload; Salesforce/Tableau/Power BI; native time tracking
+Asana,Enterprise / Enterprise+,Quote,N/A,Quote,SAML/SCIM; data residency; EKM eligibility; HIPAA option; advanced compliance
+ClickUp,Free Forever,0,N/A,0,60MB storage; unlimited tasks; collaborative docs; 1 form; unlimited free plan members
+ClickUp,Unlimited,10,N/A,7,Unlimited storage/integrations/dashboards/Gantt/forms; AI-compatible
+ClickUp,Business,19,N/A,12,Advanced views; workload; Google SSO; more automations; private whiteboards
+ClickUp,Enterprise,Quote,N/A,Quote,Custom roles; advanced permissions; SCIM; SSO; regional data residency; CSM
+Notion,Free,0,N/A,0,Unlimited for individuals; 5MB/file; basic sites/forms
+Notion,Plus,12,N/A,10,Unlimited blocks/uploads/charts; basic integrations; custom forms/sites
+Notion,Business,24,N/A,20,SAML SSO; granular DB permissions; private teamspaces; premium integrations
+Notion,Enterprise,Custom,N/A,Custom,SCIM; advanced security/controls; audit log; compliance integrations; CSM
+Smartsheet,Pro,12,N/A,9,1–10 members; unlimited viewers; 250 automations/month; core views; unlimited sheets/reports
+Smartsheet,Business,24,N/A,19,3+ members; unlimited automations; Timeline view; team workload; 1TB storage; admin controls
+Smartsheet,Enterprise / Advanced WM,Custom,N/A,Custom,Enterprise security (SSO/SAML); governance; portfolio/scale add-ons (Control Center, etc.)

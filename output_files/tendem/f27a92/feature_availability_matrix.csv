@@ -1,0 +1,89 @@
+platform,feature_category,feature_name,availability,included_plan,limitations,notes,source_url,source_date
+Shopify,Storefront,"Online Store (Themes, Liquid, Checkout)",Native,All,Advanced customization may require Liquid/dev skills,Core storefront with themes and extensibility,https://help.shopify.com/en/manual/online-store,2025-10-22
+Shopify,Payments,Shopify Payments,Native,All (where available),Regional availability; third-party gateway fees if not using Shopify Payments,"Includes Shop Pay, BNPL, multi-currency",https://help.shopify.com/en/manual/payments/shopify-payments,2025-10-22
+Shopify,POS,Shopify POS,Native,All (add app + hardware as needed),Requires POS app and compatible hardware; in-person fees apply,Unified online/offline selling with inventory sync,https://help.shopify.com/en/manual/sell-in-person,2025-10-22
+Shopify,Shipping,Shipping & Fulfillment,Native,All,Carrier rates vary; some advanced needs via apps,"Labels, discounted rates, carrier integrations",https://help.shopify.com/en/manual/shipping,2025-10-22
+Shopify,Apps,Shopify App Store,Extension/App,All,App quality/costs vary,Large ecosystem of extensions,https://apps.shopify.com,2025-10-22
+Shopify,SEO,SEO tools,Native,All,Advanced SEO often via apps,Basic SEO built-in,https://help.shopify.com/en/manual/online-store/standards/seo,2025-10-22
+Shopify,Analytics,Reports & Analytics,Native,"Basic (limited), Shopify & Advanced (advanced reports)",Basic vs advanced report access differs by plan,"Sales, customer, finance reports",https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types,2025-10-22
+Shopify,B2B,B2B on Shopify,Native,Advanced and Plus,"Requires setup of company profiles, price lists, B2B functions","Wholesale workflows (price lists, company accounts, payment terms)",https://help.shopify.com/en/manual/b2b,2025-10-22
+Shopify,Multi‑currency,Multi‑currency (Shopify Payments),Native,All with Shopify Payments,Conversion fees may apply,Localized checkout and price rounding,https://help.shopify.com/en/manual/markets/pricing/local-currencies,2025-10-22
+Shopify,Headless APIs,Storefront API / Hydrogen,Native,All (dev required),Requires developer implementation,Headless storefronts with GraphQL Storefront API / Hydrogen,https://shopify.dev/docs/api/storefront,2025-10-22
+Shopify,Omnichannel/Social,"Sales channels (Shop, Facebook/Instagram, etc.)",Native,All,Channel availability varies by region,Sell across marketplaces and social channels,https://help.shopify.com/en/manual/online-sales-channels,2025-10-22
+Shopify,Tax automation,Shopify Tax,Native,All (features vary by region/plan),Complex scenarios may need tax apps,Automated tax calculations and reporting,https://help.shopify.com/en/manual/taxes,2025-10-22
+Shopify,Inventory/OMS,"Inventory, Locations, Transfers",Native,All,Advanced OMS needs via apps/third-parties,Multi-location inventory and basic OMS,https://help.shopify.com/en/manual/inventory,2025-10-22
+Shopify,Internationalization,Shopify Markets (languages/markets),Native,All,Some features may require upgrades,"Cross-border, languages, duties/taxes via Markets",https://help.shopify.com/en/manual/markets,2025-10-22
+Shopify,Multi‑storefront,Multiple stores / organizations,Native,All/Plus,Native multi-store management limited; use Plus/org or third-party,Manage multiple stores via Plus org/admin or third-party tools,https://help.shopify.com/en/partners/creating-products-and-services/plus/organization-admin,2025-10-22
+WooCommerce,Storefront,Themes & Blocks (WordPress),Native,All,Theme quality varies,Block-based editor,https://woocommerce.com/woocommerce-features/,2025-10-22
+WooCommerce,Payments,WooPayments,Native,All (where available),Regional availability,Stripe-backed; multi-currency options,https://woocommerce.com/payments/,2025-10-22
+WooCommerce,POS,"In‑Person Payments (M2, WisePad 3, Tap to Pay)",Extension/App,All,Hardware/program availability; fees vary,Official in-person programs,https://woocommerce.com/document/getting-started-with-in-person-payments-woopayments/,2025-10-22
+WooCommerce,Shipping,Shipping & Tax,Extension/App,All,Requires plugins for advanced automation,Automations via official/community plugins,https://woocommerce.com/woocommerce-features/,2025-10-22
+WooCommerce,Apps,Extensions Marketplace,Extension/App,All,Maintenance/licensing costs,Large catalog of extensions,https://woocommerce.com/products/,2025-10-22
+WooCommerce,SEO,SEO via WordPress,Native,All,Advanced via plugins,"WP SEO ecosystem (Yoast, RankMath, etc.)",https://woocommerce.com/posts/woocommerce-seo-guide/,2025-10-22
+WooCommerce,Analytics,WooCommerce Analytics,Native,All,Enhancements via plugins,Dashboards and reports,https://woocommerce.com/document/woocommerce-analytics/,2025-10-22
+WooCommerce,B2B,Wholesale/B2B suites,Extension/App,All,Requires paid plugins,"Role-based pricing, quotes, catalogs",https://woocommerce.com/search/?query=B2B,2025-10-22
+WooCommerce,Multi‑currency,Multi‑currency,Extension/App,All,Plugin needed for full FX support,Multiple plugins for FX display/checkout,https://woocommerce.com/search/?query=currency,2025-10-22
+WooCommerce,Headless APIs,REST/GraphQL via WP,Native,All,Dev work required,Headless via WP REST API/GraphQL,https://developer.wordpress.org/rest-api/,2025-10-22
+WooCommerce,Omnichannel/Social,"Channels via plugins (FB/IG, marketplaces)",Extension/App,All,Third-party connectors often used,Social/marketplace integrations,https://woocommerce.com/product-category/marketing/channels/,2025-10-22
+WooCommerce,Tax automation,Automated tax (plugins like TaxJar/Avalara),Extension/App,All,Subscription fees apply,Multiple automated tax integrations,https://woocommerce.com/products/woo-tax/,2025-10-22
+WooCommerce,Inventory/OMS,Stock mgmt & OMS plugins,Extension/App,All,Advanced OMS via third-parties,Many OMS integrations exist,https://woocommerce.com/product-category/operations/,2025-10-22
+WooCommerce,Internationalization,Multilingual (WPML/Polylang),Extension/App,All,Plugin and translation mgmt needed,Multi-language via WordPress plugins,https://woocommerce.com/products/multilingualpress/,2025-10-22
+WooCommerce,Multi‑storefront,Multisite / integrations,Extension/App,All,Complexity for sync,WordPress Multisite or third-party,https://wordpress.org/support/article/create-a-network/,2025-10-22
+BigCommerce,Storefront,Stencil / Multi‑Storefront,Native,All,Deep changes may need dev,"Multi‑storefront, headless options",https://www.bigcommerce.com/product/,2025-10-22
+BigCommerce,Payments,Multiple gateways (incl. PayPal/Braintree),Native,All,Processor-based fees,Many gateways supported,https://support.bigcommerce.com/s/article/Online-Payment-Methods,2025-10-22
+BigCommerce,POS,POS integrations,Native,All,Provider-dependent,POS partners and integrations,https://www.bigcommerce.com/apps/point-of-sale/,2025-10-22
+BigCommerce,Shipping,Shipping & Tax (incl. Avalara),Native,All,Partner apps for advanced,"Carrier-calculated shipping, Avalara tax",https://support.bigcommerce.com/s/article/Automated-Tax-Overview,2025-10-22
+BigCommerce,Apps,App Marketplace,Extension/App,All,Subscription costs,Apps & integrations,https://www.bigcommerce.com/apps/,2025-10-22
+BigCommerce,SEO,SEO,Native,All,Advanced via apps,Built-in SEO features,https://support.bigcommerce.com/s/article/SEO-Checklist,2025-10-22
+BigCommerce,Analytics,Analytics / Insights,Native,All,Advanced via partners,Reporting and insights,https://support.bigcommerce.com/s/article/Analytics-Overview,2025-10-22
+BigCommerce,B2B,B2B Edition,Native,Enterprise (add-on); enable via BigCommerce sales,May require upgrade and enablement,"Company accounts, price lists, quotes",https://www.bigcommerce.com/products/b2b-edition/,2025-10-22
+BigCommerce,Multi‑currency,Multi‑currency transact/settle,Native,All,FX via gateway,"Display, transact & settle multi-currency",https://support.bigcommerce.com/s/article/Multi-Currency,2025-10-22
+BigCommerce,Headless APIs,Headless (GraphQL/REST),Native,All,Dev work required,Headless via Storefront GraphQL & REST,https://developer.bigcommerce.com/,2025-10-22
+BigCommerce,Omnichannel/Social,Channel Manager (marketplaces/social),Native,All,Partner connectors as needed,List/sell across channels,https://support.bigcommerce.com/s/article/Channel-Manager,2025-10-22
+BigCommerce,Tax automation,Avalara AvaTax integration,Native,All,Requires Avalara account,Automated tax calculations,https://support.bigcommerce.com/s/article/Automated-Tax-Overview,2025-10-22
+BigCommerce,Inventory/OMS,Inventory mgmt & Order API,Native,All,Advanced OMS via partners,Inventory controls and order APIs,https://support.bigcommerce.com/s/article/Inventory-Tracking,2025-10-22
+BigCommerce,Internationalization,Multi-language (Stencils/apps),Extension/App,All,Often via apps,Multi-language storefront options,https://support.bigcommerce.com/s/article/Configuring-Multi-Language,2025-10-22
+BigCommerce,Multi‑storefront,Multi‑Storefront,Native,All,License limits apply,Manage multiple stores/channels,https://www.bigcommerce.com/product/multi-storefront/,2025-10-22
+Squarespace,Storefront,Templates & Editor,Native,All,Advanced code customization limited,"Drag-and-drop editor, templates",https://www.squarespace.com/feature-index,2025-10-22
+Squarespace,Payments,Squarespace Payments,Native,Basic/Core/Plus/Advanced,Availability by region,Rates vary by plan; Klarna/Afterpay,https://support.squarespace.com/hc/en-us/articles/27853679334157-Transaction-fees-and-payment-processing-rates,2025-10-22
+Squarespace,POS,Squarespace POS (app),Native,Core/Plus/Advanced,Processor: Squarespace Payments,Sell in person with POS app,https://support.squarespace.com/hc/en-us/articles/4402824792333-Selling-in-person-with-Squarespace-Point-of-Sale,2025-10-22
+Squarespace,Shipping,Shipping labels & carrier rates,Native,Plus/Advanced for carrier-calculated rates and advanced shipping,Carrier-calculated requires higher tiers,Integrated labels and real-time rates,https://support.squarespace.com/hc/en-us/articles/205815688-Shipping,2025-10-22
+Squarespace,Apps,Extensions,Extension/App,All,Smaller catalog,Extensions marketplace,https://www.squarespace.com/extensions,2025-10-22
+Squarespace,SEO,SEO,Native,All,Advanced via integrations,Built-in SEO features,https://support.squarespace.com/hc/en-us/sections/206512367-SEO,2025-10-22
+Squarespace,Analytics,Commerce analytics,Native,All,Advanced on higher tiers,Sales and traffic analytics,https://support.squarespace.com/hc/en-us/sections/206537887-Analytics,2025-10-22
+Squarespace,B2B,B2B via integrations,Native,All,Limited native B2B,Use partners for B2B,https://www.squarespace.com/extensions?query=wholesale,2025-10-22
+Squarespace,Multi‑currency,Multi-currency,Native,All,Conversion fees apply,Multiple currency support,https://support.squarespace.com/hc/en-us/articles/215758937-Currency-options,2025-10-22
+Squarespace,Headless APIs,Developer Platform / APIs (limited),Native,All,More limited than enterprise platforms,Developer platform and APIs,https://developers.squarespace.com/,2025-10-22
+Squarespace,Omnichannel/Social,Social selling & integrations,Native,All,Channel availability varies,Integrations for social/marketing,https://support.squarespace.com/hc/en-us/sections/206545187-Social,2025-10-22
+Squarespace,Tax automation,Taxes (Stripe Tax/partners),Native,All,Partner setup required,Automated tax via partners,https://support.squarespace.com/hc/en-us/articles/206544457-Taxes,2025-10-22
+Squarespace,Inventory/OMS,Inventory management,Native,All,Advanced OMS limited,Basic inventory and orders,https://support.squarespace.com/hc/en-us/sections/206526627-Orders,2025-10-22
+Squarespace,Internationalization,Multi-language (limited),Native,All,Feature set evolving,Multi-language options,https://support.squarespace.com/hc/en-us/articles/206566287-Multilingual-websites,2025-10-22
+Wix,Storefront,"Editor, Templates, Velo",Native,All,Advanced dev via Velo,Drag-and-drop w/ dev platform,https://www.wix.com/ecommerce/features,2025-10-22
+Wix,Payments,Wix Payments,Native,All,Regional availability,Exact fees vary by method,https://support.wix.com/en/article/wix-payments-service-fees,2025-10-22
+Wix,POS,POS (partners),Native,All,Provider-dependent,POS via partners,https://www.wix.com/app-market/search/pos,2025-10-22
+Wix,Shipping,Shipping & Fulfillment,Native,All,Advanced via partners,"Labels, rates, dropshipping",https://support.wix.com/en/article/wix-shipping-faq,2025-10-22
+Wix,Apps,Wix App Market,Extension/App,All,Varied quality/cost,Large app marketplace,https://www.wix.com/app-market/main,2025-10-22
+Wix,SEO,SEO Wiz & tools,Native,All,Advanced via apps,Built-in SEO,https://support.wix.com/en/article/about-seo-wiz,2025-10-22
+Wix,Analytics,Analytics,Native,All,Advanced via partners,Reports and insights,https://support.wix.com/en/article/viewing-website-statistics,2025-10-22
+Wix,B2B,B2B via partners,Native,All,Limited native B2B,Partner solutions required,https://www.wix.com/app-market/search/b2b,2025-10-22
+Wix,Multi‑currency,Multi-currency,Native,All,FX via gateway,Multi-currency support,https://support.wix.com/en/article/multi-currency-for-your-wix-stores,2025-10-22
+Wix,Headless APIs,Wix Headless,Native,All,Dev work required,Headless via Wix APIs,https://www.wix.com/headless,2025-10-22
+Wix,Omnichannel/Social,Social & marketplace integrations,Native,All,Partner connectors as needed,Sell on social and channels,https://support.wix.com/en/article/selling-on-social-networks,2025-10-22
+Wix,Tax automation,Automated Tax (Avalara),Native,All (eligible regions),Avalara availability by region,Automated sales tax via Avalara,https://support.wix.com/en/article/setting-up-automated-sales-tax-with-avalara,2025-10-22
+Wix,Inventory/OMS,Inventory & Orders,Native,All,Advanced OMS via partners,Basic stock and order management,https://support.wix.com/en/article/wix-stores-managing-your-store-inventory,2025-10-22
+Wix,Internationalization,Wix Multilingual,Native,All,Manual translation effort,Multi-language websites,https://support.wix.com/en/article/about-wix-multilingual,2025-10-22
+Adobe Commerce (Magento),Storefront,Page Builder & PWA Studio,Native,Adobe Commerce,Complex setup,Enterprise CMS and PWA tools,https://experienceleague.adobe.com/en/docs/commerce-operations/release/features,2025-10-22
+Adobe Commerce (Magento),Payments,Payment Services,Native,Add-on for Commerce,License add-on,Supports multiple payment methods,https://business.adobe.com/products/commerce/payment-services.html,2025-10-22
+Adobe Commerce (Magento),POS,POS integrations,Native,All,Provider-dependent,POS via marketplace partners,https://experienceleague.adobe.com/en/docs/commerce-operations/release/features,2025-10-22
+Adobe Commerce (Magento),Shipping,Shipping & Tax,Native,All,Advanced configuration required,Carrier integrations and tax config,https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-reference/sales/shipping-settings,2025-10-22
+Adobe Commerce (Magento),Apps,Marketplace,Extension/App,All,Custom dev and licensing costs,Extensions marketplace,https://marketplace.magento.com/,2025-10-22
+Adobe Commerce (Magento),SEO,SEO,Native,All,Advanced configuration,Enterprise SEO and URL tools,https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/seo/seo-overview,2025-10-22
+Adobe Commerce (Magento),Analytics,BI & Reports,Native,All (BI add-ons),License differences,"Adobe Commerce BI, reports",https://experienceleague.adobe.com/en/docs/commerce-admin/reports/overview,2025-10-22
+Adobe Commerce (Magento),B2B,B2B module,Native,Adobe Commerce,Advanced setup required,"Company accounts, quotes, shared catalogs",https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/guide-overview,2025-10-22
+Adobe Commerce (Magento),Multi‑currency,Multi-currency,Native,All,FX via gateway,Global currency configuration,https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-localize-currency,2025-10-22
+Adobe Commerce (Magento),Headless APIs,REST/GraphQL APIs,Native,All,Dev work required,Comprehensive APIs for headless,https://developer.adobe.com/commerce,2025-10-22
+Adobe Commerce (Magento),Omnichannel/Social,Sales channels via partners,Native,All,Depends on integration,Marketplace and social connectors via extensions,https://marketplace.magento.com/,2025-10-22
+Adobe Commerce (Magento),Tax automation,Tax config & connectors (Avalara),Extension/App,All,Connector/licensing required,Avalara and other tax connectors,https://marketplace.magento.com/catalogsearch/result/?q=avalara,2025-10-22
+Adobe Commerce (Magento),Inventory/OMS,MSI (Multi-Source Inventory),Native,All,Advanced OMS via partners,"Multiple sources, reservations",https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/guide-intro,2025-10-22
+Adobe Commerce (Magento),Internationalization,"Multi-language, locales, stores",Native,All,Complex setup for multi-store,Strong i18n via store views/locales,https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-views,2025-10-22
+Adobe Commerce (Magento),Multi‑storefront,Multi-store / website architecture,Native,All,Configuration complexity,Multiple websites/stores/store views,https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views,2025-10-22

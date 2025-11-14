@@ -1,0 +1,101 @@
+Company Name,Website,Annual Revenue Category,Company Stage,Research Source
+Zapier,https://zapier.com,$100M+,Not Found,https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/ — $140M recurring revenue (2021) (Forbes)
+Notion,https://notion.so,Not Found,Series C+,"https://equitybee.com/companies/company?company=notion — Funding History: Series C, $275M (Oct 2021), $10B valuation (Equitybee); https://siliconangle.com/2021/10/08/productivity-startup-notion-valued-10b-latest-275m-funding-round/ — $275M round coverage (2021, SiliconANGLE)"
+Figma,https://figma.com,$100M+,Post-IPO,https://news.crunchbase.com/public/saas-figma-first-day-ipo-trading-triples/ — 2024 revenue $749M; IPO context (Crunchbase News)
+Stripe,https://stripe.com,$100M+,Series C+,https://www.reuters.com/breakingviews/stripes-50-bln-reset-is-relative-sign-health-2023-03-16/ — Reuters Breakingviews: valuation (~$50B) ≈ 3.5× prior-year gross revenue → implies ~$14B gross revenue (supports $100M+ category)
+Canva,https://canva.com,$100M+,Not Found,"https://www.reuters.com/world/asia-pacific/australias-canva-begins-share-sale-42-billion-valuation-2025-08-20/ — Reports annualised revenue ~$3.3B (Reuters, 2025)"
+Slack,https://slack.com,$100M+,Post-IPO,"https://slack.com/blog/news/slack-announces-confidential-submission-of-draft-registration-statement-for-proposed-public-listing — Listing path (2019); https://www.sec.gov/ixviewer/doc?action=display&source=content&source_url=/Archives/edgar/data/1764925/000176492521000010/work-20210131.htm — FY2021 Revenue ~$902M (Form 10-K, SEC)"
+Discord,https://discord.com,Not Found,Not Found,Not Found
+Loom,https://loom.com,Not Found,Series C+,https://www.atlassian.com/blog/loom/loom-series-c — Loom Raises a $130m Series C to Scale Video Messaging for Hybrid Work (Atlassian)
+Webflow,https://webflow.com,$100M+,Series B,"https://webflow.com/blog/webflow-series-b-funding — Announcing $140M Series B funding (Webflow blog, 2021); https://research.contrary.com/company/webflow — ~$100M ARR (2022) (Contrary Research)"
+Retool,https://retool.com,Not Found,Series C+,"https://retool.com/blog/series-c — Series C (Retool blog, 2021); https://retool.com/blog/series-c2 — Series C2 (Retool blog, 2022)"
+Airtable,https://airtable.com,Not Found,Series C+,https://www.airtable.com/newsroom/series-f — Series F (2021); https://www.airtable.com/newsroom/series-e-funding-announcement — Series E (2021)
+Linear,https://linear.app,Not Found,Not Found,Not Found
+Vercel,https://vercel.com,Not Found,Series C+,"https://vercel.com/blog/series-f — Series F funding (Company Blog, 2025)"
+Supabase,https://supabase.com,Not Found,Series C+,https://supabase.com/blog/supabase-series-e — Series E funding announcement (Supabase blog)
+Auth0,https://auth0.com,Not Found,Not Found,Not Found
+GitLab,https://gitlab.com,$100M+,Post-IPO,"https://www.sec.gov/Archives/edgar/data/1653482/000162828024012963/gtlb-20240131.htm — FY2024 Revenue (Form 10-K, SEC)"
+Grammarly,https://grammarly.com,Not Found,Series B,"https://techcrunch.com/2019/10/10/grammarly-raises-90m-at-over-1b-valuation-for-its-ai-based-grammar-and-writing-tools/ — Series B funding $90M (TechCrunch, 2019)"
+Intercom,https://intercom.com,Not Found,Series C+,"https://www.intercom.com/blog/seriesd-announcement/ — Series D funding $125M (Company Blog, 2018)"
+Datadog,https://datadog.com,$100M+,Post-IPO,"https://www.sec.gov/Archives/edgar/data/1561550/000156155024000009/ddog-20231231.htm — FY2023 Revenue (Form 10-K, SEC)"
+Snyk,https://snyk.io,Not Found,Series C+,"https://snyk.io/news/snyk-closes-196-5-million-series-g-funding-at-7-4-billion-valuation/ — Series G funding (Press Release, 2022)"
+Scribe,https://scribehow.com,Not Found,Series A,"https://techcrunch.com/2022/05/04/scribe-raises-30m-series-a-to-help-companies-build-process-documentation/ — Series A funding $30M (TechCrunch, 2022)"
+Ramp,https://ramp.com,Not Found,Series C+,"https://techcrunch.com/2023/03/20/ramp-raises-300m-at-5-8b-valuation/ — Later-stage funding coverage (TechCrunch, 2023)"
+Mercury,https://mercury.com,Not Found,Series B,"https://techcrunch.com/2022/07/28/mercury-raises-120m-series-b/ — Series B funding $120M (TechCrunch, 2022)"
+OpenAI,https://openai.com,$100M+,Not Found,https://www.nasdaq.com/articles/openai-msft-revenue-doubles-10-billion-ai-adoption-accelerates — Reported annual revenue ~$10B (Nasdaq)
+Anthropic,https://anthropic.com,Not Found,Series C+,https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation — Series F funding announcement (Anthropic newsroom)
+Hugging Face,https://huggingface.co,Not Found,Series C+,"https://huggingface.co/blog/series-c — Raised $100M Series C (Company blog, 2022)"
+Replicate,https://replicate.com,Not Found,Series A,"https://techcrunch.com/2023/09/21/replicate-raises-40m-series-a/ — Series A funding $40M (TechCrunch, 2023)"
+Runway,https://runwayml.com,Not Found,Series C+,"https://techcrunch.com/2023/06/29/runway-raises-141m/ — Funding round coverage (Runway), Series C context (TechCrunch, 2023)"
+Midjourney,https://midjourney.com,Not Found,Not Found,Not Found
+Stability AI,https://stability.ai,Not Found,Series A,"https://techcrunch.com/2022/10/17/stability-ai-raises-101m-series-a/ — Series A funding $101M (TechCrunch, 2022)"
+Perplexity AI,https://perplexity.ai,Not Found,Series B,"https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round — Series B funding $73.6M (Company blog, 2024)"
+Scale AI,https://scale.com,Not Found,Series C+,"https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/ — Series F funding $1B (TechCrunch, 2024)"
+Cohere,https://cohere.com,Not Found,Series C+,"https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/ — Series C funding $270M (TechCrunch, 2023)"
+Mistral AI,https://mistral.ai,Not Found,Series B,"https://www.reuters.com/technology/artificial-intelligence/mistral-ai-raises-600-mln-euros-latest-funding-round-2024-06-11/ — Series B €600M (Reuters, 2024)"
+Jasper AI,https://jasper.ai,Not Found,Series A,"https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/ — Series A $125M (TechCrunch, 2022)"
+Copy.ai,https://copy.ai,Not Found,Series A,"https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/ — Series A $11M (TechCrunch, 2021)"
+Descript,https://descript.com,Not Found,Series C+,https://durovscode.com/descript-raises-50-million-in-series-c-led-by-openai — Series C $50M (2022)
+Synthesia,https://synthesia.io,Not Found,Series C+,"https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/ — Series C $90M (TechCrunch, 2023)"
+Eleven Labs,https://elevenlabs.io,Not Found,Series B,"https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/ — Series B $80M (TechCrunch, 2024)"
+Otter.ai,https://otter.ai,Not Found,Series B,"https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/ — Series B $50M (TechCrunch, 2021); https://otter.ai/blog/otter-raises-50-million — Company blog (Series B, 2021)"
+Beautiful.ai,https://beautiful.ai,Not Found,Series B,"https://www.beautiful.ai/blog/series-b-announcement — Series B $11M (Company blog, 2018)"
+Gamma,https://gamma.app,Not Found,Series A,https://www.thesaasnews.com/news/gamma-raises-12-million-in-series-a — Series A $12M (2024)
+Presentations.ai,https://presentations.ai,Not Found,Seed,"https://techcrunch.com/2025/02/03/accel-backs-indian-ai-startup-building-chatgpt-for-presentations/ — Seed $3M (TechCrunch, 2025)"
+Decktopus,https://decktopus.com,Not Found,Not Found,Not Found
+Tome,https://tome.app,Not Found,Series B,"https://www.forbes.com/sites/alexkonrad/2023/02/22/storytelling-ai-startup-tome-raises-43-million/ — Series B $43M (Forbes, 2023)"
+Pitch,https://pitch.com,Not Found,Series B,"https://techcrunch.com/2021/05/20/pitch-a-platform-for-making-and-sharing-presentations-raises-85m-on-a-600m-valuation/ — Series B $85M (TechCrunch, 2021)"
+Uizard,https://uizard.io,Not Found,Series A,"https://www.finsmes.com/2021/08/uizard-raises-15m-in-series-a-funding.html — Series A $15M (FinSMEs, 2021)"
+Framer,https://framer.com,Not Found,Series C+,https://www.framer.com/blog/series-c/ — Series C $27M (Company blog)
+Bubble,https://bubble.io,Not Found,Series A,"https://techcrunch.com/2021/07/27/no-code-bubble-series-a/ — Series A $100M (TechCrunch, 2021)"
+FlutterFlow,https://flutterflow.io,Not Found,Series A,"https://techcrunch.com/2024/01/11/flutterflow-attracts-cash-for-its-low-code-mobile-app-dev-platform/ — Series A $25.5M (TechCrunch, 2024)"
+WeWeb,https://weweb.io,Not Found,Not Found,Not Found
+Fillout,https://fillout.com,Not Found,Not Found,Not Found
+Coda,https://coda.io,Not Found,Series C+,https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/ — Notes Coda valued $1.4B following its Series D (2021)
+Craft,https://www.craft.do,Not Found,Series A,"https://techcrunch.com/2021/04/01/collaborative-ios-app-craft-docs-secures-8m-led-by-creandum-and-a-skyscanner-mafia/ — Series A $8M (TechCrunch, 2021)"
+Obsidian,https://obsidian.md,Not Found,Not Found,Not Found
+Roam Research,https://roamresearch.com,Not Found,Not Found,Not Found
+LogSeq,https://logseq.com,Not Found,Seed,"https://blog.logseq.com/logseq-raises-4-1m-to-accelerate-growth-of-the-new-world-knowledge-graph/ — Seed $4.1M (Logseq blog, 2022)"
+Fathom,https://fathom.video,Not Found,Not Found,Not Found
+Fireflies.ai,https://fireflies.ai,Not Found,Not Found,Not Found
+Rewatch,https://rewatch.com,Not Found,Series A,"https://techcrunch.com/2021/05/26/zoom-fatigue-no-more-rewatch-raises-20m-to-index-transcribe-and-store-enterprise-video-content/ — Series A $20M (TechCrunch, 2021)"
+Claap,https://claap.io,Not Found,Not Found,Not Found
+Vimeo,https://vimeo.com,$100M+,Post-IPO,"https://investors.vimeo.com/static-files/8bae2d8d-cc65-41fd-a989-66cae349d22e — FY2024 Total revenue $417.0M (Form 10-K, filed Feb 19, 2025; see “Total revenue” table)"
+Rumble,https://rumble.com,$20M–$100M,Post-IPO,https://www.sec.gov/Archives/edgar/data/1830081/000101376225001859/ea023536801ex99-1_rumble.htm — 2024 Full Year Revenue $30.2M (SEC Exhibit 99.1)
+Crowdcast,https://www.crowdcast.io,Not Found,Not Found,Not Found
+StreamYard,https://streamyard.com,Not Found,Not Found,Not Found
+Twitch,https://twitch.tv,Not Found,Not Found,Not Found
+Skool,https://skool.com,Not Found,Not Found,Not Found
+Circle,https://circle.so,Not Found,Series A,"https://techcrunch.com/2021/12/07/circle-comes-around-again-with-fresh-capital-led-by-tiger-global-for-200m-valuation/ — Series A $24.7M (TechCrunch, 2021)"
+Mighty Networks,https://mightynetworks.com,Not Found,Series B,"https://techcrunch.com/2021/04/26/mighty-networks-raises-50m-to-build-a-creator-economy-for-the-masses/ — Series B $50M (TechCrunch, 2021)"
+Orbit,https://orbit.love,Not Found,Not Found,Not Found
+Bevy,https://bevy.com,Not Found,Not Found,Not Found
+Lemonade,https://lemonade.com,$100M+,Post-IPO,https://www.sec.gov/Archives/edgar/data/1691421/000169142125000031/lmnd-20241231.htm — FY2024 Total revenue ~$526.5M; Stage: Post-IPO (Form 10-K)
+Ro,https://ro.co,Not Found,Not Found,Not Found
+Capsule,https://joincapsule.com,Not Found,Not Found,Not Found
+Forward,https://forward.com,Not Found,Not Found,Not Found
+One Medical,https://onemedical.com,Not Found,Not Found,Not Found
+Teladoc,https://teladoc.com,$100M+,Post-IPO,"https://www.sec.gov/Archives/edgar/data/1477449/000147744925000005/tdoc-20241231.htm — FY2024 Total revenue $2,569.6M; Stage: Post-IPO (Form 10-K)"
+Omada Health,https://omadahealth.com,Not Found,Not Found,Not Found
+Ginger,https://ginger.com,Not Found,Not Found,Not Found
+Talkspace,https://talkspace.com,Not Found,Post-IPO,https://www.sec.gov/Archives/edgar/data/1803901/000095017025038107/talk-20241231.htm — Stage: Post-IPO (Form 10-K); No explicit annual revenue extracted.
+BetterHelp,https://betterhelp.com,Not Found,Not Found,Not Found
+Mindstrong,https://mindstrong.com,Not Found,Not Found,Not Found
+Spring Health,https://springhealth.com,Not Found,Not Found,Not Found
+Modern Health,https://www.modernhealth.com,Not Found,Not Found,Not Found
+Glooko,https://glooko.com,Not Found,Not Found,Not Found
+Medtronic,https://medtronic.com,$100M+,Post-IPO,https://www.sec.gov/Archives/edgar/data/1613103/000161310324000058/exhibit991-fy24q4earningsr.htm — FY2024 revenue $32.364B; Stage: Post-IPO (SEC Exhibit 99.1)
+Natus Medical,https://natus.com,Not Found,Not Found,Not Found
+Hill-Rom,https://hillrom.com,Not Found,Not Found,Not Found
+Stryker,https://stryker.com,$100M+,Post-IPO,"https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/syk-20241231.htm — FY2024 net sales $22,595M; Stage: Post-IPO (Form 10-K)"
+Zimmer Biomet,https://zimmerbiomet.com,$100M+,Post-IPO,https://www.sec.gov/Archives/edgar/data/1136869/000095017025026604/zbh-20241231.htm — FY2024 net sales $7.679B; Stage: Post-IPO (Form 10-K)
+Intuitive Surgical,https://intuitivesurgical.com,$100M+,Post-IPO,https://www.sec.gov/Archives/edgar/data/1035267/000103526725000017/isrg-20241231.htm — FY2024 Total revenue $8.4B; Stage: Post-IPO (Form 10-K)
+Conmed,https://conmed.com,Not Found,Not Found,Not Found
+Masimo,https://masimo.com,Not Found,Not Found,Not Found
+Philips Healthcare,https://philips.com/healthcare,Not Found,Not Found,Not Found
+GE Healthcare,https://gehealthcare.com,Not Found,Not Found,Not Found
+Siemens Healthineers,https://siemenshealthineers.com,Not Found,Not Found,Not Found
+Planmeca,https://planmeca.com,Not Found,Not Found,Not Found
+Danaher,https://danaher.com,Not Found,Post-IPO,https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm — Stage: Post-IPO (Form 10-K)
+Dentsply Sirona,https://dentsplysirona.com,$100M+,Post-IPO,"https://investor.dentsplysirona.com/static-files/0854bab7-dd8a-4abc-a06f-76f2628bb57f — FY2024 net sales $3,793M (Investor PDF Ex.99.1); https://www.sec.gov/Archives/edgar/data/818479/000081847925000035/xray-20241231.htm — Stage: Post-IPO (Form 10-K)"
+Align Technology,https://aligntech.com,$100M+,Post-IPO,https://www.sec.gov/Archives/edgar/data/1097149/000109714925000005/algn-q424earningspressrele.htm — FY2024 total revenues ~$4.0B; Stage: Post-IPO (SEC 8-K Exhibit/Press Release)
