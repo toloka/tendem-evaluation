@@ -1,9 +1,9 @@
-# Tendem Benchmark
+# Tendem Evaluation
 
-This repository contains the benchmark dataset and evaluation results for **Tendem** — a hybrid AI+Human system where AI agents handle structured work and Human Experts ensure quality.
+This repository contains the evaluation dataset and results for **Tendem** — a hybrid AI+Human system where AI agents handle structured work and Human Experts ensure quality.
 
-**Product:** [tendem.ai](https://tendem.ai)
-**Full Paper:** [Tendem: A Hybrid AI+Human Agentic System](https://toloka.ai/files/tendem_whitepaper.pdf)
+**Product:** [tendem.ai](https://tendem.ai)  
+**Full Paper:** [Tendem: A Hybrid AI+Human Agentic Platform](https://toloka.ai/files/tendem_whitepaper.pdf)
 
 ---
 
