@@ -44,7 +44,7 @@ tendem-benchmark/
 ├── input_files/               # Input files by task_id
 │   └── {task_id}/
 └── output_files/              # System outputs
-    ├── gpt/                   # ChatGPT Agent
+    ├── chatgpt_agent/         # ChatGPT Agent
     ├── tendem/                # Tendem
     └── upwork/                # Upwork freelancers
 ```
@@ -66,4 +66,3 @@ tendem-benchmark/
 ## Contact
 
 Questions? Visit [tendem.ai](https://tendem.ai) or see the [full paper](https://toloka.ai/files/tendem_whitepaper.pdf).
-
